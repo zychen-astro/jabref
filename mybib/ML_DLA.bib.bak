@@ -1,0 +1,57 @@
+% Encoding: UTF-8
+
+@Article{Prochaska2005,
+  author        = {Prochaska, J. X. and Herbert-Fort, S. and Wolfe, A. M.},
+  title         = {The SDSS Damped Ly{$\alpha$} Survey: Data Release 3},
+  journal       = {\apj},
+  year          = {2005},
+  volume        = {635},
+  pages         = {123-142},
+  month         = dec,
+  __markedentry = {[ling:]},
+  abstract      = {We present the results from a damped Ly{$\alpha$} survey of the Sloan Digital Sky Survey, Data Release 3. We have discovered over 500 new damped Ly{$\alpha$} systems at z$\gt$2.2, and the complete statistical sample for z$\gt$1.6 has more than 600 damped Ly{$\alpha$} galaxies. We measure the H I column density distribution f$_{HI}$(N, X) and its zeroth and first moments (the incidence l$_{DLA}$ and gas mass density {$\Omega$}$^{DLA}$$_{g}$ of damped Ly{$\alpha$} systems, respectively) as a function of redshift. The key results include: (1) the full SDSS DR3 f$_{HI}$(N, X) distribution (z\~{}3.06) is well fit by a {$\Gamma$} function (or double power law) with ``break'' column density N$_{γ}$=10$^{21.5+/-0.1}$ cm$^{-2}$ and ``faint-end'' slope {$\alpha$}=-1.8+/-0.1 (2) the shape of the f$_{HI}$(N, X) distributions in a series of redshift bins does not show evolution; (3) the incidence and gas mass density of damped systems decrease by 35\%+/-9\% and 50\%+/-10\% during \~{}1 Gyr between the redshift intervals z=[3.0, 3.5] and z=[2.2, 2.5] and (4) the incidence and gas mass density of damped Ly{$\alpha$} systems in the lowest SDSS redshift bin (z=2.2) are consistent with the current values. We investigate a number of systematic errors in damped Ly{$\alpha$} analysis and identify only one important effect: we measure 40\%+/-20\% higher {$\Omega$}$^{DLA}$$_{g}$ values toward a subset of brighter quasars than toward a faint subset. This effect is contrary to the bias associated with dust obscuration and suggests that gravitational lensing may be important. Comparing the results against several models of galaxy formation in {$\Lambda$}CDM, we find that all of the models significantly underpredict l$_{DLA}$ at z=3, and only SPH models with significant feedback can reproduce {$\Omega$}$^{DLA}$$_{g}$ at high redshift. Based on our results for the damped Ly{$\alpha$} systems, we argue that the Lyman limit systems contribute \~{}33\% of the universe's H I atoms at all redshifts z=2-5. Furthermore, we infer that the f$_{HI}$(N, X) distribution for N$_{HI}$$\lt$10$^{20}$ cm$^{-2}$ has an inflection with slope dlogf/dlogN$\gt$-1. We advocate a new mass density definition, the mass density of predominantly neutral gas {$\Omega$}$^{neut}$$_{g}$, to be contrasted with the mass density of gas associated with H I atoms. We contend the damped Ly{$\alpha$} systems contribute $\gt$80\% of {$\Omega$}$^{neut}$$_{g}$ at all redshifts and therefore are the main reservoirs for star formation.},
+  doi           = {10.1086/497287},
+  eprint        = {astro-ph/0508361},
+  groups        = {Lyman},
+  keywords      = {Galaxies: Evolution, Galaxies: Intergalactic Medium, Galaxies: Quasars: Absorption Lines},
+  url           = {http://adsabs.harvard.edu/abs/2005ApJ...635..123P},
+}
+
+@Article{Parks2018,
+  author        = {Parks, D. and Prochaska, J. X. and Dong, S. and Cai, Z.},
+  title         = {Deep learning of quasar spectra to discover and characterize damped Ly{$\alpha$} systems},
+  journal       = {MNRAS},
+  year          = {2018},
+  volume        = {476},
+  pages         = {1151-1168},
+  month         = may,
+  __markedentry = {[ling:4]},
+  abstract      = {We have designed, developed, and applied a convolutional neural network (CNN) architecture using multi-task learning to search for and characterize strong H I Ly{$\alpha$} absorption in quasar spectra. Without any explicit modelling of the quasar continuum or application of the predicted line profile for Ly{$\alpha$} from quantum mechanics, our algorithm predicts the presence of strong H I absorption and estimates the corresponding redshift z$_{abs}$ and H I column density N\_$\{$H I$\}$, with emphasis on damped Ly{$\alpha$} systems (DLAs, absorbers with N\_$\{$H I$\}${\ge} 2 {\times} 10\^{}$\{$20$\}$ cm\^{}$\{$-2$\}$). We tuned the CNN model using a custom training set of DLAs injected into DLA-free quasar spectra from the Sloan Digital Sky Survey (SDSS), data release 5 (DR5). Testing on a held-back validation set demonstrates a high incidence of DLAs recovered by the algorithm (97.4 per cent as DLAs and 99 per cent as an H I absorber with N\_$\{$H I$\}$$\gt$ 10\^{}$\{$19.5$\}$ cm\^{}$\{$-2$\}$) and excellent estimates for z$_{abs}$ and N\_$\{$H I$\}$. Similar results are obtained against a human-generated survey of the SDSS DR5 data set. The algorithm yields a low incidence of false positives and negatives but is challenged by overlapping DLAs and/or very high N\_$\{$H I$\}$ systems. We have applied this CNN model to the quasar spectra of SDSS DR7 and the Baryon Oscillation Spectroscopic Survey (data release 12) and provide catalogues of 4913 and 50 969 DLAs, respectively (including 1659 and 9230 high-confidence DLAs that were previously unpublished). This work validates the application of deep learning techniques to astronomical spectra for both classification and quantitative measurements.},
+  archiveprefix = {arXiv},
+  doi           = {10.1093/mnras/sty196},
+  eprint        = {1709.04962},
+  file          = {:Parks2018-Deep Learning of Quasar Spectra to Discover and
+Characterize Damped Lyα Systems.pdf:PDF},
+  groups        = {ML},
+  keywords      = {techniques: spectroscopic, quasars: absorption lines},
+  url           = {http://adsabs.harvard.edu/abs/2018MNRAS.476.1151P},
+}
+
+@Article{Prochaska2009,
+  author        = {Prochaska, J. X. and Wolfe, A. M.},
+  title         = {On the (Non)Evolution of H I Gas in Galaxies Over Cosmic Time},
+  journal       = {\apj},
+  year          = {2009},
+  volume        = {696},
+  pages         = {1543-1547},
+  month         = may,
+  __markedentry = {[ling:6]},
+  abstract      = {We present new results on the frequency distribution of projected H I column densities f(N $_{H I }$, X), total comoving covering fraction, and integrated mass densities {$\rho$}$_{H I }$ of high-redshift, H I galactic gas from a survey of damped Ly{$\alpha$} systems (DLAs) in the Sloan Digital Sky Survey, Data Release 5. For the full sample spanning z = 2.2-5 (738 DLAs), f(N $_{H I }$, X) is well fitted by a double power law with a break column density N$_{d}$ = 10$^{21.55±0.04}$ cm$^{-2}$ and low/high-end exponents {$\alpha$} = -2.00 {\plusmn} 0.05, - 6.4$^{+1.1}$ $_{-1.6}$. The shape of f(N $_{H I }$, X) is invariant during this redshift interval and also follows the projected surface density distribution of present-day H I disks as inferred from 21 cm observations. We conclude that H I gas has been distributed in a self-similar fashion for the past 12 Gyr. The normalization of f(N $_{H I }$, X), in contrast, decreases by a factor of 2 during the {\ap}2 Gyr interval from z = 4-2.2 with coincident decreases in both the total covering fraction and {$\rho$}$_{H I }$. At z {\ap} 2, these quantities match the present-day values suggesting no evolution during the past {\ap}10 Gyr. We argue that the evolution at early times is driven by ``violent'' processes that removes gas from nearly half the galaxies at z {\ap} 3 establishing the antecedents of current early-type galaxies. The perceived constancy of {$\rho$}$_{H I }$, meanwhile, implies that H I gas is a necessary but insufficient precondition for star formation and that the global star formation rate is driven by the accretion and condensation of fresh gas from the intergalactic medium.},
+  archiveprefix = {arXiv},
+  doi           = {10.1088/0004-637X/696/2/1543},
+  eprint        = {0811.2003},
+  keywords      = {galaxies: evolution, intergalactic medium, quasars: absorption lines},
+  url           = {http://adsabs.harvard.edu/abs/2009ApJ...696.1543P},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

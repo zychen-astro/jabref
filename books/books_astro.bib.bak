@@ -1,0 +1,465 @@
+% Encoding: UTF-8
+
+@Book{Mo2010,
+  title         = {Galaxy Formation and Evolution},
+  year          = {2010},
+  author        = {Mo, H. and van den Bosch, F. C. and White, S.},
+  month         = may,
+  __markedentry = {[ling:5]},
+  abstract      = {1. Introduction; 2. Observational facts; 3. Cosmological background; 4. Cosmological perturbations; 5. Gravitational collapse and collisionless dynamics; 6. Probing the cosmic density field; 7. Formation and structure of dark matter halos; 8. Formation and evolution of gaseous halos; 9. Star formation in galaxies; 10. Stellar populations and chemical evolution; 11. Disk galaxies; 12. Galaxy interactions and transformations; 13. Elliptical galaxies; 14. Active galaxies; 15. Statistical properties of the galaxy population; 16. The intergalactic medium; Appendices; References; Index.},
+  booktitle     = {Galaxy Formation and Evolution, by Houjun Mo , Frank van den Bosch , Simon White, Cambridge, UK: Cambridge University Press, 2010},
+  file          = {:/media/ling/LENOVO/silver/Materials/astrophysics_gal/Mo2010_GALAXY FORMATION AND EVOLUTION.pdf:PDF},
+  url           = {http://adsabs.harvard.edu/abs/2010gfe..book.....M},
+}
+
+@Book{Weinberg1972,
+  title     = {Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity},
+  year      = {1972},
+  author    = {Weinberg, S.},
+  month     = jul,
+  abstract  = {Preface.  Notation.  Copyright Acknowledgements.  Part One Preliminaries.  Part Two the General Theory of Relativity.  Part Three Applications of Feneral Relativity.  Part Four Formal Developments.  Part Five Cosmology.  Appendix.  Some Useful Numbers.  Index.},
+  booktitle = {Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity, by Steven Weinberg, pp.~688.~ISBN 0-471-92567-5.~Wiley-VCH , July 1972.},
+  pages     = {688},
+  url       = {http://adsabs.harvard.edu/abs/1972gcpa.book.....W},
+}
+
+@Book{Longair2006,
+  title     = {The cosmic century : a history of astrophysics and cosmology},
+  publisher = {Cambridge University Press},
+  year      = {2006},
+  author    = {Longair, M. S. (. S. )},
+  booktitle = {The Cosmic Century: A History of Astrophysics and Cosmology.~By Malcolm S.~Longair.~QB461.L66 2006; ISBN-10 0521-47436-1 (hardback); ISBN-13 978-0521-47436-8 (hardback).~Published by Cambridge University Press, Cambridge, UK, 2006.},
+  file      = {:/media/ling/LENOVO/silver/Materials/astrophyscis00/Longair2006_Malcolm S. Longair.-The cosmic century _ a history of astrophysics and cosmology-Cambridge University Press (2006).pdf:PDF},
+  keywords  = {COSMOLOGY, ASTROPHYSICS, HISTORY OF ASTRONOMY},
+  url       = {http://adsabs.harvard.edu/abs/2006ccha.book.....L},
+}
+
+@Book{Longair2008,
+  title     = {Galaxy Formation},
+  year      = {2008},
+  author    = {Longair, M. S.},
+  booktitle = {Galaxy Formation, by Malcolm S.~Longair Berlin: Springer, 2008.~ ISBN 978-3-540-73477-2},
+  file      = {:/media/ling/LENOVO/silver/Materials/astrophysics_gal/Longair2008_Galaxy Formation.pdf:PDF},
+  groups    = {galaxy},
+  url       = {http://adsabs.harvard.edu/abs/2008gafo.book.....L},
+}
+
+@Book{Hammer2017,
+  title     = {Studying Distant Galaxies: a Handbook of Methods and Analyses},
+  publisher = {World Scientific Publishing Co},
+  year      = {2017},
+  author    = {Hammer, Mathieu, F. P. and Flores, H. and Rodrigues, M.},
+  abstract  = {Distant galaxies encapsulate the various stages of galaxy evolution and formation from over 95\% of the development of the universe. As early as twenty-five years ago, little was known about them, however since the first systematic survey was completed in the 1990s, increasing amounts of resources have been devoted to their discovery and research. This book summarises for the first time the numerous techniques used for observing, analysing, and understanding the evolution and formation of these distant galaxies. In this rapidly expanding research field, this text is an every-day companion handbook for graduate students and active researchers. It provides guidelines in sample selection, imaging, integrated spectroscopy and 3D spectroscopy, which help to avoid the numerous pitfalls of observational and analysis techniques in use in extragalactic astronomy. It also paves the way for establishing relations between fundamental properties of distant galaxies. At each step, the reader is assisted with numerous practical examples and ready-to-use methodology to help understand and analyse research.},
+  booktitle = {Studying Distant Galaxies: A Handbook of Methods and Analyses.~Edited by HAMMER F ET AL.~Published by World Scientific Publishing Co.~Pte.~Ltd., .~ISBN \#9781786340559},
+  doi       = {10.1142/q0016},
+  url       = {http://adsabs.harvard.edu/abs/2017sdg..book.....H},
+}
+
+@Book{Binney2008,
+  title     = {Galactic Dynamics: Second Edition},
+  publisher = {Princeton University Press},
+  year      = {2008},
+  author    = {Binney, J. and Tremaine, S.},
+  booktitle = {Galactic Dynamics: Second Edition, by James Binney and Scott Tremaine.~ISBN 978-0-691-13026-2 (HB).~Published by Princeton University Press, Princeton, NJ USA, 2008.},
+  url       = {http://adsabs.harvard.edu/abs/2008gady.book.....B},
+}
+
+@Book{Osterbrock2006,
+  title     = {Astrophysics of gaseous nebulae and active galactic nuclei},
+  year      = {2006},
+  author    = {Osterbrock, D. E. and Ferland, G. J.},
+  booktitle = {Astrophysics of gaseous nebulae and active galactic nuclei, 2nd.~ed.~by D.E.~Osterbrock and G.J.~Ferland.~Sausalito, CA: University Science Books, 2006},
+  groups    = {AGN},
+  keywords  = {GASEOUS NEBULAE, PHOTOIONIZATION, THERMAL EQUILIBRIUM, EMISSION SPECTRA, INTERSTELLAR DUST, H II REGIONS, PLANETARY NEBULAE, SUPERNOVA REMNANTS, ACTIVE GALACTIC NUCLEI},
+  url       = {http://adsabs.harvard.edu/abs/2006agna.book.....O},
+}
+
+@Book{Netzer2013,
+  title     = {The Physics and Evolution of Active Galactic Nuclei},
+  year      = {2013},
+  author    = {Netzer, H.},
+  month     = nov,
+  abstract  = {Preface; 1. Observations of active galactic nuclei; 2. Nonthermal radiation processes; 3. Black holes; 4. Accretion disks; 5. Physical processes in AGN gas and dust; 6. The AGN family; 7. Main components of AGN; 8. Host galaxies of AGN; 9. Formation and evolution of AGN; 10. Outstanding questions; References; Index.},
+  booktitle = {The Physics and Evolution of Active Galactic Nuclei, by Hagai Netzer, Cambridge, UK: Cambridge University Press, 2013},
+  groups    = {AGN},
+  url       = {http://adsabs.harvard.edu/abs/2013peag.book.....N},
+}
+
+@Book{Cepa2012,
+  title     = {The Emission-Line Universe},
+  year      = {2012},
+  author    = {Cepa, J.},
+  month     = feb,
+  abstract  = {Preface; 1. What can emission lines tell us? G. Stasi{\'n}ska; 2. The observer's perspective: emission-line surveys M. Giavalisco; 3. The astrophysics of early galaxy formation P. Madau; 4. Primeval galaxies D. Schaerer; 5. Active galactic nuclei B. M. Peterson; 6. Chemical evolution F. Matteucci; 7. Galactic sources of emission lines S. Eikenberry; 8. Narrow band imaging S. Pascual and B. Cedr{\'e}s; 9. Long-slit spectroscopy M. S{\'a}nchez and A. M. Garc{\'{\i}}a; 10. Basic principles of tunable filters H. Casta{\~n}eda and A. Bongiovanni.},
+  booktitle = {The Emission-Line Universe, by Edited by Jordi Cepa, Cambridge, UK: Cambridge University Press, 2012},
+  groups    = {spec},
+  url       = {http://adsabs.harvard.edu/abs/2012elu..book.....C},
+}
+
+@Book{Rosswog2011,
+  title     = {Introduction to High-Energy Astrophysics},
+  year      = {2011},
+  author    = {Rosswog, S. and Br{\"u}ggen, M.},
+  month     = mar,
+  abstract  = {Preface; 1. Special relativity; 2. Gas processes; 3. Radiation processes; 4. Supernovae; 5. Neutron stars, pulsars and magnetars; 6. Compact binary systems; 7. Gamma-ray bursts; 8. Active galactic nuclei; Appendix A. Some recent high-energy astrophysics instruments; Appendix B. Physical constants; Appendix C. Distances; Appendix D. Luminosity, brightness, magnitude, colour; Index.},
+  booktitle = {Introduction to High-Energy Astrophysics, by Stephan Rosswog , Marcus Br{\"u}ggen, Cambridge, UK: Cambridge University Press, 2011},
+  groups    = {hep},
+  url       = {http://adsabs.harvard.edu/abs/2011ihea.book.....R},
+}
+
+@Book{Livio2011,
+  title     = {Black Holes},
+  year      = {2011},
+  author    = {Livio, M. and Koekemoer, A. M.},
+  month     = feb,
+  abstract  = {Participants; Preface Mario Livio and Anton Koekemoer; 1. Black holes, entropy, and information G. T. Horowitz; 2. Gravitational waves from black-hole mergers J. G. Baker, W. D. Boggs, J. M. Centrella, B. J. Kelley, S. T. McWilliams and J. R. van Meter; 3. Out-of-this-world physics: black holes at future colliders G. Landsberg; 4. Black holes in globular clusters S. L. W. McMillan; 5. Evolution of massive black holes M. Volonteri; 6. Supermassive black holes in deep multiwavelength surveys C. M. Urry and E. Treister; 7. Black-hole masses from reverberation mapping B. M. Peterson and M. C. Bentz; 8. Black-hole masses from gas dynamics F. D. Macchetto; 9. Evolution of supermassive black holes A. M{\"u}ller and G. Hasinger; 10. Black-hole masses of distant quasars M. Vestergaard; 11. The accretion history of supermassive black holes K. Brand and the NDWFS Bo{\"o}tes Survey Teams; 12. Strong field gravity and spin of black holes from broad iron lines A. C. Fabian; 13. Birth of massive black-hole binaries M. Colpi, M. Dotti, L. Mayer and S. Kazantzidis; 14. Dynamics around supermassive black holes A. Gualandris and D. Merritt; 15. Black-hole formation and growth: simulations in general relativity S. L. Shapiro; 16. Estimating the spins of stellar-mass black holes J. E. McClintock, R. Narayan and R. Shafee; 17. Stellar relaxation processes near the Galactic massive black hole T. Alexander; 18. Tidal disruptions of stars by supermassive black holes S. Gezari; 19. Where to look for radiatively inefficient accretion flows in low-luminosity AGN M. Chiaberge; 20. Making black holes visible: accretion, radiation, and jets J. H. Krolik.},
+  booktitle = {Black Holes, by Edited by Mario Livio, Anton M.~Koekemoer, Cambridge, UK: Cambridge University Press, 2011},
+  groups    = {BH},
+  url       = {http://adsabs.harvard.edu/abs/2011blho.book.....L},
+}
+
+@Book{Antonuccio-Delogu2010,
+  title     = {AGN Feedback in Galaxy Formation},
+  year      = {2010},
+  author    = {Antonuccio-Delogu, V. and Silk, J.},
+  month     = oct,
+  abstract  = {Part I. AGNs, Starbursts and Galaxy Evolution: 1. The effect of mass and star-formation timescale on galaxy evolution C. Harrison and M. Colless; 2. Suppressing cluster cooling flows by multiple AGN activity A. Nusser; 3. Starbursts and AGN activity in Spitzer-selected sources at high-z M. Polletta, A. Omont, C. Lonsdale and D. Shupe; 4. Star formation in galaxies hosting active galactic nuclei up to z},
+  booktitle = {AGN Feedback in Galaxy Formation, by Vincenzo Antonuccio-Delogu , Joseph Silk, Cambridge, UK: Cambridge University Press, 2010},
+  groups    = {AGN},
+  url       = {http://adsabs.harvard.edu/abs/2010afgf.book.....A},
+}
+
+@Proceedings{Alloin2006,
+  title     = {Physics of Active Galactic Nuclei at all Scales},
+  year      = {2006},
+  editor    = {{Alloin}, D.},
+  volume    = {693},
+  series    = {Lecture Notes in Physics, Berlin Springer Verlag},
+  booktitle = {Physics of Active Galactic Nuclei at all Scales},
+  doi       = {10.1007/b11550280},
+  groups    = {AGN},
+  url       = {http://adsabs.harvard.edu/abs/2006LNP...693.....A},
+}
+
+@Book{Padmanabhan2002,
+  title     = {Theoretical Astrophysics, Volume III: Galaxies and Cosmology},
+  year      = {2002},
+  author    = {Padmanabhan, T.},
+  month     = oct,
+  abstract  = {This timely volume provides comprehensive coverage of all aspects of cosmology and extragalactic astronomy at an advanced level. Beginning with an overview of the key observational results and necessary terminology, it covers important topics: the theory of galactic structure and galactic dynamics, structure formation, cosmic microwave background radiation, formation of luminous galaxies in the universe, intergalactic medium and active galactic nuclei. This self-contained text has a modular structure, and contains over one hundred worked exercises. It can be used alone, or in conjunction with the previous two accompanying volumes (Volume I: Astrophysical Processes, and Volume II: Stars and Stellar Systems).},
+  booktitle = {Theoretical Astrophysics, by T.~Padmanabhan, pp.~638.~ISBN 0521562422.~Cambridge, UK: Cambridge University Press, October 2002.},
+  groups    = {galaxy},
+  pages     = {638},
+  url       = {http://adsabs.harvard.edu/abs/2002tagc.book.....P},
+}
+
+@Book{Krolik1999,
+  title     = {Active galactic nuclei : from the central black hole to the galactic environment},
+  year      = {1999},
+  author    = {Krolik, J. H.},
+  booktitle = {Active galactic nuclei : from the central black hole to the galactic environment /Julian H.~Krolik.~Princeton, N.~J.~: Princeton University Press, c1999.},
+  groups    = {AGN},
+  url       = {http://adsabs.harvard.edu/abs/1999agnc.book.....K},
+}
+
+@Book{Peterson1997,
+  title     = {An Introduction to Active Galactic Nuclei},
+  year      = {1997},
+  author    = {Peterson, B. M.},
+  month     = feb,
+  abstract  = {Preface; Acknowledgements; 1. Basic properties and a brief historical perspective; 2. Taxonomy of active galactic nuclei; 3. The black hole paradigm; 4. Continuum emission; 5. The broad-line region; 6. The narrow-line region; 7. Unified models of AGNs; 8. The environment of AGNs; 9. The geometry of the expanding universe; 10. Quasar surveys; 11. The quasar luminosity function and evolution; 12. Quasar absorption lines; References; Bibliography.},
+  booktitle = {An introduction to active galactic nuclei, Publisher: Cambridge, New York Cambridge University Press, 1997 Physical description xvi, 238 p.~ISBN 0521473489},
+  groups    = {AGN},
+  url       = {http://adsabs.harvard.edu/abs/1997iagn.book.....P},
+}
+
+@Book{Peebles1993,
+  title     = {Principles of Physical Cosmology},
+  year      = {1993},
+  author    = {Peebles, P. J. E.},
+  booktitle = {Principles of Physical Cosmology by P.J.E.~Peebles.~Princeton University Press, 1993.~ISBN: 978-0-691-01933-8},
+  groups    = {cosmology},
+  url       = {http://adsabs.harvard.edu/abs/1993ppc..book.....P},
+}
+
+@Book{Hartle2003,
+  title     = {Gravity : an introduction to Einstein's general relativity},
+  year      = {2003},
+  author    = {Hartle, J. B.},
+  abstract  = {Einstein's theory of general relativity is a cornerstone of modern physics. It embraces a wealth of frontier scientific topics including curved spacetime, black holes, gravitational waves, and cosmology. General relativity is increasingly central to contemporary physics and astronomy and therefore to an undergraduate physics education. The aim of this ground-breaking new text is to make this fundamental theory accessible to undergraduate students. Using a ``physics first'' approach, a minimum of new mathematics, and a wealth of applications, the author provides a fluent and accessible introduction for physicists and other interested in this central achievement of modern science.},
+  booktitle = {Gravity / James B.~Hartle.~San Francisco, CA, USA: Addison Wesley, ISBN 0-8053-8662-9, 2003, XXII + 582 pp.},
+  keywords  = {Gravity, General Relativity, GRAVITY, GENERAL THEORY OF RELATIVITY, INTRODUCTIONS},
+  url       = {http://adsabs.harvard.edu/abs/2003gieg.book.....H},
+}
+
+@Book{Schutz2009,
+  title     = {A First Course in General Relativity},
+  year      = {2009},
+  author    = {Schutz, B.},
+  month     = may,
+  abstract  = {Preface; 1. Fundamental principles of special relativity; 2. Vector analysis in special relativity; 3. Tensor analysis in special relativity; 4. Perfect fluids in special relativity; 5. Preface to curvature; 6. Curved manifolds; 7. Physics in a curved spacetime; 8. The Einstein field equations; 9. Gravitational radiation; 10. Spherical solutions for stars; 11. Schwarzschild geometry and black holes; 12. Cosmology; References; Index.},
+  booktitle = {A First Course in General Relativity by Bernard Schutz.~Cambridge University Press, 2009.~ISBN: 9780521887052},
+  groups    = {GR},
+  url       = {http://adsabs.harvard.edu/abs/2009fcgr.book.....S},
+}
+
+@Book{Webb2016,
+  title     = {Extragalactic Astrophysics},
+  year      = {2016},
+  author    = {Webb, J. R.},
+  month     = sep,
+  abstract  = {This book is intended to be a course about the creation and evolution of the universe at large, including the basic macroscopic building blocks (galaxies) and the overall large-scale structure.  This text covers a broad range of topics for a graduate-level class in a physics department where students' available credit hours for astrophysics classes are limited. The sections cover galactic structure, external galaxies, galaxy clustering, active galaxies, general relativity and cosmology.},
+  booktitle = {Extragalactic Astrophysics, by Webb, James R..~ISBN: 978-1-6817-4409-4.~IOP ebooks.~Bristol, UK: IOP Publishing, 2016},
+  doi       = {10.1088/978-1-6817-4409-4},
+  groups    = {astroph},
+  url       = {http://adsabs.harvard.edu/abs/2016exas.book.....W},
+}
+
+@Book{2015,
+  title     = {Lessons from the Local Group},
+  publisher = {Springer International Publishing},
+  year      = {2015},
+  editor    = {Kenneth Freeman and Bruce Elmegreen and David Block and Matthew Woolway},
+  doi       = {10.1007/978-3-319-10614-4},
+  groups    = {galaxy},
+}
+
+@Book{Falcon-Barroso2013,
+  title     = {Secular Evolution of Galaxies},
+  year      = {2013},
+  author    = {Falc{\'o}n-Barroso, J. and Knapen, J. H.},
+  month     = oct,
+  abstract  = {Preface; 1. Secular evolution in disk galaxies John Kormendy; 2. Galaxy morphology Ronald J. Buta; 3. Dynamics of secular evolution James Binney; 4. Bars and secular evolution in disk galaxies: theoretical input E. Athanassoula; 5. Stellar populations Reynier F. Peletier; 6. Star formation rate indicators Daniela Calzetti; 7. The evolving interstellar medium Jacqueline van Gorkom; 8. Evolution of star formation and gas Nick Z. Scoville; 9. Cosmological evolution of galaxies Isaac Shlosman.},
+  booktitle = {Secular Evolution of Galaxies},
+  groups    = {galaxy},
+  url       = {http://adsabs.harvard.edu/abs/2013seg..book.....F},
+}
+
+@InBook{Kormendy2015,
+  pages     = {323},
+  title     = {Structure and Evolution of Dwarf Galaxies},
+  year      = {2015},
+  author    = {Kormendy, J.},
+  editor    = {{Freeman}, K. and {Elmegreen}, B. and {Block}, D. and {Woolway}, M.},
+  abstract  = {Different structural parameter correlations show how classical bulge components and elliptical galaxies are different from spiral and S0 galaxy disks, irregular (Im) galaxies, and spheroidal (Sph) galaxies. In contrast, the latter, apparently diverse galaxies or galaxy components have almost identical parameter correlations. This shows that they are related. A review of galaxy transformation processes suggests that S0 and spheroidal galaxies are star-formation-quenched, ``red and dead'' versions of spiral and Im galaxies. In particular, Sph galaxies are bulgeless S0s. This motivates a parallel sequence galaxy classification in which an S0a-S0b-S0c-Sph sequence of decreasing bulge-to-total ratios is juxtaposed to an Sa-Sb-Sc-Im sequence of star-forming galaxies. All parameter sequences show a complete continuity from giant galaxies to the tiniest dwarfs. Dwarfs are not a new or different class of galaxies. Rather, they are the extreme products of transformation processes that get more important as gravitational potential wells get more shallow. Smaller Sph and S+Im galaxies have lower stellar densities because they retain fewer baryons. Comparison of the baryonic parameter correlations with those for dark matter halos allows us to estimate baryon loss as a function of galaxy mass. Extreme dwarfs are almost completely dominated by dark matter.},
+  booktitle = {Lessons from the Local Group: A Conference in honor of David Block and Bruce Elmegreen},
+  doi       = {10.1007/978-3-319-10614-4_27},
+  groups    = {galaxy},
+  keywords  = {Physics},
+  url       = {http://adsabs.harvard.edu/abs/2015llg..book..323K},
+}
+
+@Book{Rybicki1986,
+  title     = {Radiative Processes in Astrophysics},
+  year      = {1986},
+  author    = {Rybicki, G. B. and Lightman, A. P.},
+  month     = jun,
+  abstract  = {Radiative Processes in Astrophysics: This clear, straightforward, and fundamental introduction is designed to present-from a physicist's point of view-radiation processes and their applications to astrophysical phenomena and space science. It covers such topics as radiative transfer theory, relativistic covariance and kinematics, bremsstrahlung radiation, synchrotron radiation, Compton scattering, some plasma effects, and radiative transitions in atoms. Discussion begins with first principles, physically motivating and deriving all results rather than merely presenting finished formulae. However, a reasonably good physics background (introductory quantum mechanics, intermediate electromagnetic theory, special relativity, and some statistical mechanics) is required. Much of this prerequisite material is provided by brief reviews, making the book a self-contained reference for workers in the field as well as the ideal text for senior or first-year graduate students of astronomy, astrophysics, and related physics courses. Radiative Processes in Astrophysics also contains about 75 problems, with solutions, illustrating applications of the material and methods for calculating results. This important and integral section emphasizes physical intuition by presenting important results that are used throughout the main text; it is here that most of the practical astrophysical applications become apparent.},
+  booktitle = {Radiative Processes in Astrophysics, by George B.~Rybicki, Alan P.~Lightman, pp.~400.~ISBN 0-471-82759-2.~Wiley-VCH , June 1986.},
+  groups    = {process},
+  pages     = {400},
+  url       = {http://adsabs.harvard.edu/abs/1986rpa..book.....R},
+}
+
+@Book{Draine2011,
+  title     = {Physics of the Interstellar and Intergalactic Medium},
+  year      = {2011},
+  author    = {Draine, B. T.},
+  booktitle = {Physics of the Interstellar and Intergalactic Medium by Bruce T.~Draine.~Princeton University Press, 2011.~ISBN: 978-0-691-12214-4},
+  groups    = {ISM},
+  url       = {http://adsabs.harvard.edu/abs/2011piim.book.....D},
+}
+
+@Book{Spitzer1978,
+  title     = {Physical processes in the interstellar medium},
+  year      = {1978},
+  author    = {Spitzer, L.},
+  abstract  = {This book deals with the nature of interstellar matter, treating both the rarefied hydrogen and helium gas pervading the universe and the heavier atoms present in both the gas and dust grains. Observational results on all phases of the interstellar medium are summarized, various local phenomena occurring in the gas and in dust grains are discussed, and elastic collisions are studied in detail. Those interactions of the gas with radiation that can be understood without any detailed analysis of excitation conditions are examined and then treated on the basis of the steady-state equation, which is also used to analyze ionization, dissociation, and gas heating. The optical properties of grains and corresponding results for grain radii, composition, and mean density are presented; results of optical polarization studies and an alignment analysis are also reported. The theory of such grain properties as electric charge, temperature, radiative acceleration, and likely evolution is considered. The overall equilibrium and dynamics of the interstellar gas are investigated, including explosions of H II regions and supernova shells as well as processes of star formation.},
+  booktitle = {Physical processes in the interstellar medium, by Lyman Spitzer.~ New York Wiley-Interscience, 1978.~333 p.},
+  doi       = {10.1002/9783527617722},
+  groups    = {ISM},
+  keywords  = {Astrophysics, Interstellar Chemistry, Interstellar Matter, Dissociation, Excitation, Gravitational Effects, H Ii Regions, Ionization, Optical Properties, Polarized Electromagnetic Radiation, Radiative Transfer, Shock Waves, Thermodynamic Equilibrium},
+  url       = {http://adsabs.harvard.edu/abs/1978ppim.book.....S},
+}
+
+@Book{Gurzadyan1997,
+  title     = {The Physics and Dynamics of Planetary Nebulae},
+  year      = {1997},
+  author    = {Gurzadyan, G. A.},
+  abstract  = {This is a considerably revised English translation of the Russian original of 1993. It gives a rather complete survey of the astrophysics of planetary nebulae, including theory and observations. The book covers various subjects ranging from various aspects of emission lines, ionization equilibrium, electron temperature, the ultraviolet and the continuous spectra, the infrared radiation and radio emission all the way to distances, dimensions, dynamics and, finally, the origin of planetary nebulae. It addresses students as well as professional and amateur astronomers.},
+  booktitle = {The Physics and Dynamics of Planetary Nebulae, XVI, 513 pp.~179 figs.~93 tabs..~ Springer-Verlag Berlin Heidelberg New York.~ Also Astronomy and Astrophysics Library},
+  groups    = {ISM},
+  pages     = {179},
+  url       = {http://adsabs.harvard.edu/abs/1997pdpn.book.....G},
+}
+
+@Book{Kwok2000,
+  title     = {The Origin and Evolution of Planetary Nebulae},
+  year      = {2000},
+  author    = {Kwok, S.},
+  month     = jun,
+  abstract  = {This authoritative volume presents a thoroughly modern understanding of planetary nebulae, integrating new developments in stellar physics with the dynamics of nebular evolution. It covers all the stages in the evolution of planetary nebulae, carefully synthesizes observations from across the spectrum and clearly explains all the key physical processes at work. Particular emphasis is placed on recent observations from space, using the Hubble Space Telescope, the Infrared Space Observatory and the ROSAT satellite. Coverage also describes exciting possibilities such as the use of planetary nebulae in determining the cosmic distance scale, the distribution of dark matter and the chemical evolution of galaxies. This book provides graduate students with an accessible introduction to planetary nebulae, and researchers with an authoritative reference. It can also be used as an advanced textbook on the physics of the interstellar medium.},
+  booktitle = {The origin and evolution of planetary nebulae / Sun Kwok.~Cambridge ; New York : Cambridge University Press, 2000.~(Cambridge astrophysics series ; 33)},
+  groups    = {ISM},
+  url       = {http://adsabs.harvard.edu/abs/2000oepn.book.....K},
+}
+
+@Book{Tielens2005,
+  title     = {The Physics and Chemistry of the Interstellar Medium},
+  year      = {2005},
+  author    = {Tielens, A. G. G. M.},
+  month     = aug,
+  abstract  = {1. The galactic ecosystem; 2. Cooling processes; 3. Heating processes; 4. Chemical processes; 5. Interstellar dust; 6. Interstellar polycyclic aromatic hydrocarbon molecules; 7. HII regions; 8. The phases of the ISM; 9. Photodissociation regions; 10. Molecular clouds; 11. Interstellar shocks; 12. Dynamics of the interstellar medium; 13. The lifecycle of interstellar dust.},
+  booktitle = {The Physics and Chemistry of the Interstellar Medium, by A.~G.~G.~M.~Tielens, pp.~.~ISBN 0521826349.~Cambridge, UK: Cambridge University Press, 2005.},
+  groups    = {ISM},
+  url       = {http://adsabs.harvard.edu/abs/2005pcim.book.....T},
+}
+
+@Book{Whittet1992,
+  title     = {Dust in the galactic environment},
+  year      = {1992},
+  author    = {Whittet, D. C. B.},
+  abstract  = {An overview of dust in the galactic environment is given which covers general concepts, methods of investigation, important results and their significance, relevant literature, and suggestions for future research. The general topics addressed include: element abundances and depletions, interstellar extinction and scattering, interstellar polarization and grain alignment, spectral absorption features, continuum and line emission, and the origin and evolution of interstellar grains.},
+  booktitle = {Dust in the galactic environment Institute of Physics Publishing, 306 p.},
+  groups    = {ISM},
+  keywords  = {Cosmic Dust, Interstellar Matter, Abundance, Interstellar Extinction, Line Spectra, Milky Way Galaxy, Spatial Distribution, Spectrum Analysis},
+  url       = {http://adsabs.harvard.edu/abs/1992dge..book.....W},
+}
+
+@Book{Dopita2003,
+  title     = {Astrophysics of the diffuse universe},
+  year      = {2003},
+  author    = {Dopita, M. A. and Sutherland, R. S.},
+  booktitle = {Astrophysics of the diffuse universe, Berlin, New York: Springer, 2003.~Astronomy and astrophysics library, ISBN 3540433627},
+  groups    = {process},
+  keywords  = {INTERSTELLAR MATTER},
+  url       = {http://adsabs.harvard.edu/abs/2003adu..book.....D},
+}
+
+@Article{Papaderos2012,
+  author   = {Papaderos, P. and Recchi, S. and Hensler, G.},
+  title    = {Dwarf Galaxies: Keys to Galaxy Formation and Evolution},
+  journal  = {Astrophysics and Space Science Proceedings},
+  year     = {2012},
+  volume   = {28},
+  doi      = {10.1007/978-3-642-22018-0},
+  groups   = {galaxy},
+  keywords = {Physics},
+  url      = {http://adsabs.harvard.edu/abs/2012ASSP...28.....P},
+}
+
+@Book{Loeb2013,
+  title     = {The First Galaxies in the Universe},
+  year      = {2013},
+  author    = {Loeb, A. and Furlanetto, S. R.},
+  booktitle = {The First Galaxies in the Universe, by Abraham Loeb and Steven R.~Furlanetto.~ ISBN: 9780691144917.~ Princeton, NJ: Princeton University Press},
+  groups    = {galaxy},
+  url       = {http://adsabs.harvard.edu/abs/2013fgu..book.....L},
+}
+
+@Book{Rhee2013,
+  title     = {Cosmic Dawn: The Search for the First Stars and Galaxies},
+  year      = {2013},
+  author    = {Rhee, G.},
+  booktitle = {Cosmic Dawn: The Search for the First Stars and Galaxies, Astronomers' Universe, ISBN 978-1-4614-7812-6.~Springer Science+Business Media, LLC, 2013},
+  doi       = {10.1007/978-1-4614-7813-3},
+  groups    = {galaxy},
+  keywords  = {Physics},
+  url       = {http://adsabs.harvard.edu/abs/2013cdsf.book.....R},
+}
+
+@Book{Bergh2000,
+  title     = {The Galaxies of the Local Group},
+  publisher = {Cambridge},
+  year      = {2000},
+  author    = {van den Bergh, S.},
+  month     = may,
+  abstract  = {The Local Group is a small cluster of galaxies of which thirty-five members are currently known, including the Milky Way. With characteristic clarity of expression, Sidney van den Bergh provides a complete overview of all that is known about the galaxies of the Local Group and their evolution.  He also places this knowledge in the wider context of continuing studies of galaxy formation and evolution, the cosmic distance scale, and the conditions in the early Universe.  This volume thoroughly details our current understanding of each of the thirty-five members of the Local Group, as well as those galaxies previously regarded as possible members. The book goes on to examine the mass, stability and evolution of the Local Group as a whole and includes many important, previously unpublished results and conclusions.},
+  booktitle = {The galaxies of the Local Group, by Sidney Van den Bergh.~Published by Cambridge, UK: Cambridge University Press, 2000 Cambridge Astrophysics Series Series, vol no: 35, ISBN: 0521651816.},
+  groups    = {galaxy},
+  url       = {http://adsabs.harvard.edu/abs/2000glg..book.....V},
+}
+
+@Article{Paczynski1996,
+  author   = {Paczynski, B.},
+  title    = {Gravitational Microlensing in the Local Group},
+  journal  = {\araa},
+  year     = {1996},
+  volume   = {34},
+  pages    = {419-460},
+  abstract = {The status of searches for gravitational microlensing events of the stars in our galaxy and in other galaxies of the Local Group, the interpretation of the results, some theory, and prospects for the future are reviewed. The searches have already unveiled $\{$approximately$\}$ 100 events, at least two of them caused by binaries, and have already proven to be useful for studies of the Galactic structure. The events detected so far are probably attributable to the effects of ordinary stars, and possibly to substellar brown dwarfs; however, a firm conclusion cannot be reached yet because the analysis published to date is based on a total of only 16 events. The current searches, soon to be upgraded, will probably allow determination of the mass function of stars and brown dwarfs in the next few years; these efforts will also provide good statistical information about binary systems, in particular their mass ratios. They may also reveal the nature of dark matter and allow us to detect planets and planetary mass objects.},
+  doi      = {10.1146/annurev.astro.34.1.419},
+  eprint   = {astro-ph/9604011},
+  groups   = {GR},
+  url      = {http://adsabs.harvard.edu/abs/1996ARA%26A..34..419P},
+}
+
+@Book{Frank2002,
+  title     = {Accretion Power in Astrophysics: Third Edition},
+  year      = {2002},
+  author    = {Frank, J. and King, A. and Raine, D. J.},
+  month     = jan,
+  abstract  = {1. Accretion as a source of energy; 2. Gas dynamics; 3. Plasma concepts; 4. Accretion in binary systems; 5. Accretion discs; 6. Accretion on to a compact object; 7. Active galactic nuclei; 8. Accretion discs in active galactic nuclei; 9. Accretion power in active galactic nuclei; 10. Thick discs; 11. Accretion flows.},
+  booktitle = {Accretion Power in Astrophysics, by Juhan Frank and Andrew King and Derek Raine, pp.~398.~ISBN 0521620538.~Cambridge, UK: Cambridge University Press, February 2002.},
+  groups    = {AGN},
+  pages     = {398},
+  url       = {http://adsabs.harvard.edu/abs/2002apa..book.....F},
+}
+
+@Article{Kormendy1995,
+  author   = {Kormendy, J. and Richstone, D.},
+  title    = {Inward Bound---The Search For Supermassive Black Holes In Galactic Nuclei},
+  journal  = {\araa},
+  year     = {1995},
+  volume   = {33},
+  pages    = {581},
+  abstract = {Dynamical searches reveal central dark objects with masses $\sim 10^6$to $10^{9.5}$ $\backslash$msun in the Galaxy, $\backslash$m31, $\backslash$mm32, M87, NGC 3115, NGC 3377, NGC 4258, and NGC 4594. Indirect arguments suggest but do not prove that these are supermassive black holes (BHs) like those postulated as quasar engines. This paper reviews dynamical search techniques, the robustness of the evidence, and BH demographics. Stellar-dynamical evidence is generally more robust than gas-dynamical evidence (gas velocities can be nongravitational), but gas measurements reach closer to the Schwarzschild radius, and in NGC 4258 they show a Keplerian rotation curve. A statistical survey finds BHs in $\sim 20\\%$ of nearby E--Sbc galaxies, consistent with predictions based on quasar energetics. BH masses are proportional to the mass of the bulge component. Most candidates are inactive; in some cases, the abundance of fuel is not easily reconciled with BH starvation. Flashes caused by the accretion of individual stars may provide a test of the BH picture.},
+  doi      = {10.1146/annurev.aa.33.090195.003053},
+  groups   = {BH},
+  url      = {http://adsabs.harvard.edu/abs/1995ARA%26A..33..581K},
+}
+
+@Article{Lada2003,
+  author        = {Lada, C. J. and Lada, E. A.},
+  title         = {Embedded Clusters in Molecular Clouds},
+  journal       = {\araa},
+  year          = {2003},
+  volume        = {41},
+  pages         = {57-115},
+  __markedentry = {[ling:]},
+  abstract      = {Stellar clusters are born embedded within giant molecular clouds (GMCs) and during their formation and early evolution are often only visible at infrared wavelengths, being heavily obscured by dust. Over the past 15 years advances in infrared detection capabilities have enabled the first systematic studies of embedded clusters in galactic molecular clouds. In this article we review the current state of empirical knowledge concerning these extremely young protocluster systems. From a survey of the literature we compile the first extensive catalog of galactic embedded clusters. We use the catalog to construct the mass function and estimate the birthrate for embedded clusters within 2 kpc of the sun. We find that the embedded cluster birthrate exceeds that of visible open clusters by an order of magnitude or more indicating a high infant mortality rate for protocluster systems. Less than 4-7\% of embedded clusters survive emergence from molecular clouds to become bound clusters of Pleiades age. The vast majority (90\%) of stars that form in embedded clusters form in rich clusters of 100 or more members with masses in excess of 50 M$_{⊙}$. Moreover, observations of nearby cloud complexes indicate that embedded clusters account for a significant (70-90\%) fraction of all stars formed in GMCs. We review the role of embedded clusters in investigating the nature of the initial mass function (IMF) that, in one nearby example, has been measured over the entire range of stellar and substellar mass, from OB stars to substellar objects near the deuterium burning limit. We also review the role embedded clusters play in the investigation of circumstellar disk evolution and the important constraints they provide for understanding the origin of planetary systems. Finally, we discuss current ideas concerning the origin and dynamical evolution of embedded clusters and the implications for the formation of bound open clusters.},
+  doi           = {10.1146/annurev.astro.41.011802.094844},
+  eprint        = {astro-ph/0301540},
+  groups        = {ISM},
+  url           = {http://adsabs.harvard.edu/abs/2003ARA%26A..41...57L},
+}
+
+@Book{Serjeant2010,
+  title         = {Observational Cosmology},
+  year          = {2010},
+  author        = {Serjeant, S.},
+  month         = sep,
+  __markedentry = {[ling:6]},
+  abstract      = {1. Space and time; 2. The cosmic microwave background; 3. The local Universe; 4. The distant optical Universe; 5. The distant multiwavelength Universe; 6. Black holes; 7. Gravitational lensing; 8. The intervening Universe; Epilogue; Appendices; Solutions; Index.},
+  booktitle     = {Observational Cosmology by Stephen Serjeant.~Cambridge University Press, 2010.~ISBN: 9780521157155},
+  groups        = {obs/cosmo},
+  url           = {http://adsabs.harvard.edu/abs/2010obco.book.....S},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:galaxy\;0\;1\;\;\;\;;
+1 StaticGroup:BH\;0\;1\;\;\;\;;
+1 StaticGroup:AGN\;0\;1\;\;\;\;;
+1 StaticGroup:spec\;0\;1\;\;\;\;;
+1 StaticGroup:hep\;0\;1\;\;\;\;;
+1 StaticGroup:ISM\;0\;1\;\;\;\;;
+1 StaticGroup:cosmology\;0\;1\;\;\;\;;
+2 StaticGroup:GR\;0\;1\;\;\;\;;
+2 StaticGroup:obs/cosmo\;0\;1\;\;\;\;;
+1 StaticGroup:astroph\;0\;1\;\;\;\;;
+1 StaticGroup:process\;0\;1\;\;\;\;;
+1 StaticGroup:stellar\;0\;1\;\;\;\;;
+}

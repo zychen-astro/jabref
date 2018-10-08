@@ -1,0 +1,24 @@
+% Encoding: UTF-8
+
+@Article{Prandoni2018,
+  author        = {Isabella Prandoni},
+  title         = {EoR Foregrounds: the Faint Extragalactic Radio Sky},
+  __markedentry = {[ling:6]},
+  abstract      = {A wealth of new data from upgraded and new radio interferometers are rapidly improving and transforming our understanding of the faint extra-galactic radio sky. Indeed the mounting statistics at sub-mJy and uJy flux levels is finally allowing us to get stringent observational constraints on the faint radio population and on the modeling of its the various components. In this paper I will provide a brief overview of the latest results in areas that are potentially important for an accurate treatment of extra-galactic foregrounds in experiments designed to probe the Epoch of Reionization.},
+  date          = {2018-06-28},
+  doi           = {10.1017/S174392131800073X},
+  eprint        = {http://arxiv.org/abs/1806.10886v1},
+  eprintclass   = {astro-ph.GA},
+  eprinttype    = {arXiv},
+  file          = {:http\://arxiv.org/pdf/1806.10886v1:PDF},
+  groups        = {radio},
+  journaltitle  = {2018 IAUS, 333, 175P},
+  keywords      = {astro-ph.GA},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:radio\;0\;1\;\;\;\;;
+}

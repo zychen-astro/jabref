@@ -1,0 +1,52 @@
+% Encoding: UTF-8
+
+@Article{Jia2018,
+  author   = {Jia, Xianzhe and Kivelson, Margaret G. and Khurana, Krishan K. and Kurth, William S.},
+  title    = {Evidence of a plume on Europa from Galileo magnetic and plasma wave signatures},
+  journal  = {Nature Astronomy},
+  year     = {2018},
+  month    = may,
+  issn     = {2397-3366},
+  abstract = {The icy surface of Jupiter’s moon, Europa, is thought to lie on top of a global ocean1-4. Signatures in some Hubble Space Telescope images have been associated with putative water plumes rising above Europa’s surface5,6, providing support for the ocean theory. However, all telescopic detections reported were made at the limit of sensitivity of the data5-7, thereby calling for a search for plume signatures in in-situ measurements. Here, we report in-situ evidence of a plume on Europa from the magnetic field and plasma wave observations acquired on Galileo’s closest encounter with the moon. During this flyby, which dropped below 400 km altitude, the magnetometer                8               recorded an approximately 1,000-kilometre-scale field rotation and a decrease of over 200 nT in field magnitude, and the Plasma Wave Spectrometer                9               registered intense localized wave emissions indicative of a brief but substantial increase in plasma density. We show that the location, duration and variations of the magnetic field and plasma wave measurements are consistent with the interaction of Jupiter’s corotating plasma with Europa if a plume with characteristics inferred from Hubble images were erupting from the region of Europa’s thermal anomalies. These results provide strong independent evidence of the presence of plumes at Europa.},
+  refid    = {Jia2018},
+  url      = {https://doi.org/10.1038/s41550-018-0450-z},
+}
+
+@Article{Pfalzner2018,
+  author        = {Pfalzner, S. and Bhandare, A. and Vincke, K. and Lacerda, P.},
+  title         = {Outer solar system possibly shaped by a stellar fly-by},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  __markedentry = {[ling:]},
+  abstract      = {The planets of our solar system formed from a gas-dust disk. However, there are some properties of the solar system that are peculiar in this context. First, the cumulative mass of all objects beyond Neptune (TNOs) is only a fraction of what one would expect. Second, unlike the planets themselves, the TNOs do not orbit on coplanar, circular orbits around the Sun, but move mostly on inclined, eccentric orbits and are distributed in a complex way. This implies that some process restructured the outer solar system after its formation. However, some of TNOs, referred to as Sednoids, move outside the zone of influence of the planets. Thus external forces must have played an important part in the restructuring of the outer solar system. The study presented here shows that a close fly-by of a neighbouring star can simultaneously lead to the observed lower mass density outside 30 AU and excite the TNOs onto eccentric, inclined orbits, including the family of Sednoids. In the past it was estimated that such close fly-bys are rare during the relevant development stage. However, our numerical simulations show that such a scenario is much more likely than previously anticipated. A fly-by also naturally explains the puzzling fact that Neptune has a higher mass than Uranus. Our simulations suggest that many additional Sednoids at high inclinations still await discovery, perhaps including bodies like the postulated planet X.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.02960},
+  groups        = {environment},
+  keywords      = {Astrophysics - Astrophysics of Galaxies, Astrophysics - Earth and Planetary Astrophysics},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180702960P},
+}
+
+@Article{Biver2018,
+  author        = {Biver, N. and Bockel{\'e}e-Morvan, D. and Paubert, G. and Moreno, R. and Crovisier, J. and Boissier, J. and Bertrand, E. and Boussier, H. and Kugel, F. and McKay, A. and Dello Russo, N. and DiSanti, M. A.},
+  title         = {The extraordinary composition of the ``blue comet'' C/2016 R2 (PanSTARRS)},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = sep,
+  __markedentry = {[ling:6]},
+  abstract      = {We present a multi-wavelength study of comet C/2016 R2 (PanSTARRS). This comet was observed on 23-24 January 2018 with the IRAM 30m telescope, and in January to March 2018 with the Nan$\backslash$c$\{$c$\}$ay radio telescope. Visible spectroscopy was performed in December 2017 and February 2018 with small amateur telescopes. We report on measurements of CO, CH3OH, H2CO and HCN production rates, and on the determination of the N2/CO abundance ratio. Several other species, especially OH, were searched for but not detected. The inferred relative abundances, including upper limits for sulfur species, are compared to those measured in other comets at about the same heliocentric distance of about 2.8 AU. The coma composition of comet C/2016 R2 is very different from all other comets observed so far, being rich in N2 and CO and dust poor. This suggests that this comet might belong to a very rare group of comets formed beyond the N2 ice line. Alternatively, comet C/2016 R2 (PanSTARRS) could be the fragment of a large and differentiated transneptunian object, with properties characteristic of volatile-enriched layers.},
+  archiveprefix = {arXiv},
+  eprint        = {1809.08086},
+  groups        = {comet},
+  keywords      = {Astrophysics - Earth and Planetary Astrophysics},
+  primaryclass  = {astro-ph.EP},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180908086B},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:environment\;0\;1\;\;\;\;;
+1 StaticGroup:comet\;0\;1\;\;\;\;;
+}

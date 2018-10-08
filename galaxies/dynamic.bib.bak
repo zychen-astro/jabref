@@ -1,0 +1,393 @@
+% Encoding: UTF-8
+
+@Article{Ghosh2018,
+  author        = {Ghosh, S. and Jog, C. J.},
+  title         = {Effect of finite disk-thickness on swing amplification of non-axisymmetric perturbations in a sheared galactic disk},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jun,
+  abstract      = {A typical galactic disk is observed to have a finite thickness. Here, we present the study of the physical effect of introduction of finite thickness on the generation of small-scale spiral arms by swing amplification in a differentially rotating galactic disk. The galactic disk is modelled first as a one-fluid system, and then as a gravitationally-coupled two-fluid (stars and gas) system where each fluid is taken as isothermal, and corotating with each other. We derived the equations governing the evolution of growth of the non-axisymmetric perturbations in a sheared frame of reference while incorporating the effect of finite thickness of a galactic disk. We found that the finite thickness of a galactic disk has a generic trend of suppressing the growth of the non-axisymmetric perturbations via swing amplification. Moreover, even the observed range of disk-thickness values (\~{} 300-500 pc) can lead to a complete suppression of swing amplification for Q \~{} 1.7, whereas for an infinitesimally-thin disk, the corresponding critical value is Q \~{} 2. For a two-fluid (stars and gas) system, the net amplification is shown to be set by the mutual interplay of the effect of interstellar gas in promoting the spiral features and the effect of finite thickness in preventing the spiral arms. The coexistence of these two opposite effects is shown to be capable of giving rise to diverse and complex dynamical behaviour.},
+  archiveprefix = {arXiv},
+  eprint        = {1806.01439},
+  groups        = {disk},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180601439G},
+}
+
+@Article{Zhu2018,
+  author        = {Zhu, L. and van de Ven, G. and M{\'e}ndez-Abreu, J. and Obreja, A.},
+  title         = {Morphology and kinematics of orbital components in CALIFA galaxies across the Hubble sequence},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jun,
+  abstract      = {Based on the stellar orbit distribution derived from orbit-superposition Schwarzschild models, we decompose each of 250 representative present-day galaxies into four orbital components: cold with strong rotation, warm with weak rotation, hot with dominant random motion and counter-rotating (CR). We rebuild the surface brightness ($\Sigma$) of each orbital component and we present in figures and tables a quantification of their morphologies using the Sersic index $\backslash$textit$\{$n$\}$, concentration $C = \log{(\Sigma\_{0.1R\_e}/\Sigma\_{R\_e})}$ and intrinsic flattening $q\_{\mathrm{Re}}$ and $q\_{\mathrm{Rmax}}$, with $R\_e$ the half-light-radius and $R\_{\mathrm{max}}$ the CALIFA data coverage. We find that: (1) kinematic hotter components are generally more concentrated and rounder than colder components, and (2) all components become more concentrated and thicker/rounder in more massive galaxies; they change from disk-like in low mass late-type galaxies to bulge-like in high-mass early type galaxies. Our findings suggest that Sersic $\backslash$textit$\{$n$\}$ is not a good discriminator between rotating bulges and non-rotating bulges. The luminosity fraction of cold orbits $f\_{\rm cold}$ is well correlated with the photometrically-decomposed disk fraction $f\_{\rm disk}$ as $f\_{\mathrm{cold}} = 0.14 + 0.23f\_{\mathrm{\mathrm{disk}}}$. Similarly, the hot orbit fraction $f\_{\rm hot}$ is correlated with the bulge fraction $f\_{\rm bulge}$ as $f\_{\mathrm{hot}} = 0.19 + 0.31f\_{\mathrm{\mathrm{bulge}}}$. The warm orbits mainly contribute to disks in low-mass late-type galaxies, and to bulges in high-mass early-type galaxies. The cold, warm, and hot components generally follow the same morphology ($\epsilon = 1-q\_{\rm Rmax}$) versus kinematics ($\sigma\_z^2/\overline{V\_{\mathrm{tot}}^2}$) relation as the thin disk, thick disk/pseudo bulge, and classical bulge identified from cosmological simulations.},
+  archiveprefix = {arXiv},
+  eprint        = {1806.02886},
+  groups        = {kinematical},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180602886Z},
+}
+
+@Article{Blumenthal2018,
+  author        = {Blumenthal, K. and Barnes, J.},
+  title         = {Go with the Flow: Understanding Inflow Mechanisms in Galaxy Collisions},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jun,
+  abstract      = {Dynamical interactions between colliding spiral galaxies strongly affect the state and distribution of their interstellar gas. Observations indicate that interactions funnel gas toward the nuclei, fueling bursts of star formation and nuclear activity. To date, most numerical simulations of galaxy mergers have assumed that the gaseous and stellar disks initially have the same distribution and size. However, observations of isolated disk galaxies show that this is seldom the case; in fact, most spirals have as much or more gas beyond their optical radii as they do within. Can gas in such extended disks be efficiently transported to the nuclei during interactions? To address this question, we examine the effect of various parameters on the transport of gas to the nuclei of interacting galaxies. In addition to the relative radii of the gaseous and stellar disks, these parameters include the pericentric separation, disk orientation, fractional gas mass, presence of a bulge, treatment of gas thermodynamics, and the spatial resolution of the numerical simulation. We found that gas accumulates in most of our simulated nuclei, but the efficiency of inflow is largely dependent upon the encounter geometry. Dissipation alone is not enough to produce inflows; an efficient mechanism for extracting angular momentum from the gas is necessary. Several different mechanisms are seen in these experiments. Aside from mode-driven inflows (such as, but not limited to, bars) and ram-pressure sweeping, both of which have been previously described and well studied, we supply the first quantitative study of an often-seen process: the formation of massive gas clumps in Jeans-unstable tidal shocks, and their subsequent delivery to the nuclei via dynamical friction.},
+  archiveprefix = {arXiv},
+  eprint        = {1806.05132},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180605132B},
+}
+
+@Article{Rodrigues2018,
+  author        = {Rodrigues, D. C. and Marra, V. and del Popolo, A. and Davari, Z.},
+  title         = {Absence of a fundamental acceleration scale in galaxies},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jun,
+  abstract      = {The Radial Acceleration Relation confirms that a nontrivial acceleration scale can be found in the average internal dynamics of galaxies. The existence of such a scale is not obvious as far as the standard cosmological model is concerned, and it has been interpreted as a possible sign of modified gravity. The implications could be profound: it could in principle explain galactic dynamics without large amounts of yet-undetected dark matter and address issues that the standard cosmological model faces at galactic scales. Here, we consider 193 disk galaxies from the SPARC and THINGS databases and, using Bayesian inference, we show that the probability of existence of a fundamental acceleration that is common to all the galaxies is essentially zero: the $p$-value is smaller than $10^{-20}$ or, equivalently, the null hypothesis is rejected at more than 10$\sigma$. We conclude that the acceleration scale unveiled by the Radial Acceleration Relation is of emergent nature, possibly caused by a complex interplay between baryons and dark matter. In particular, the MOND theory, or any other theory that behaves like it at galactic scales, is ruled out as a fundamental theory for galaxies at more than 10$\sigma$.},
+  archiveprefix = {arXiv},
+  eprint        = {1806.06803},
+  groups        = {gal/dyn},
+  keywords      = {Astrophysics - Astrophysics of Galaxies, General Relativity and Quantum Cosmology},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180606803R},
+}
+
+@Article{Gunawardhana2018,
+  author        = {Gunawardhana, M. L. P. and Norberg, P. and Zehavi, I. and Farrow, D. J. and Loveday, J. and Hopkins, A. M. and Davies, L. J. M. and Wang, L. and Alpaslan, M. and Bland-Hawthorn, J. and Brough, S. and Holwerda, B. W. and Owers, M. S. and Wright, A. H.},
+  title         = {Galaxy And Mass Assembly (GAMA): the signatures of galaxy interactions as viewed from small scale galaxy clustering},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jun,
+  abstract      = {Statistical studies of galaxy-galaxy interactions often utilise net change in physical properties of progenitors as a function of the separation between their nuclei to trace both the strength and the observable timescale of their interaction. In this study, we use two-point auto, cross and mark correlation functions to investigate the extent to which small-scale clustering properties of star forming galaxies can be used to gain physical insight into galaxy-galaxy interactions between galaxies of similar optical brightness and stellar mass. The Halpha star formers, drawn from the highly spatially complete Galaxy And Mass Assembly (GAMA) survey, show an increase in clustering on small separations. Moreover, the clustering strength shows a strong dependence on optical brightness and stellar mass, where (1) the clustering amplitude of optically brighter galaxies at a given separation is larger than that of optically fainter systems, (2) the small scale clustering properties (e.g. the strength, the scale at which the signal relative to the fiducial power law plateaus) of star forming galaxies appear to differ as a function of increasing optical brightness of galaxies. According to cross and mark correlation analyses, the former result is largely driven by the increased dust content in optically bright star forming galaxies. The latter could be interpreted as evidence of a correlation between interaction-scale and optical brightness of galaxies, where physical evidence of interactions between optically bright star formers, likely hosted within relatively massive halos, persist over larger separations than those between optically faint star formers.},
+  archiveprefix = {arXiv},
+  eprint        = {1806.08255},
+  groups        = {merge},
+  keywords      = {Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180608255G},
+}
+
+@Article{Meiron2018,
+  author        = {Meiron, Y. and Kocsis, B.},
+  title         = {Resonant relaxation in globular clusters},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jun,
+  abstract      = {Resonant relaxation has been discussed as an efficient process that changes the angular momenta of stars orbiting around a central supermassive black hole due to the fluctuating gravitational field of the stellar cluster. Other spherical stellar systems, such as globular clusters, exhibit a restricted form of this effect where enhanced relaxation rate only occurs in the directions of the angular momentum vectors, but not in their magnitudes; this is called vector resonant relaxation (VRR). To explore this effect, we performed a large set of direct N-body simulations, with up to 512k particles and \~{}500 dynamical times. Contrasting our simulations with Spitzer-style Monte Carlo simulations, that by design only exhibit 2-body relaxation, we show that the temporal behavior of the angular momentum vectors in $N$-body simulations cannot be explained by 2-body relaxation alone. VRR operates efficiently in globular clusters with $N\gt10^4$. The fact that VRR operates in globular clusters may open way to use powerful tools in statistical physics for their description. In particular, since the distribution of orbital planes relaxes much more rapidly than the distribution of the magnitude of angular momentum and the radial action, the relaxation process reaches an internal statistical equilibrium in the corresponding part of phase space while the whole cluster is generally out of equilibrium, in a state of quenched disorder. We point out the need to include effects of VRR in Monte Carlo simulations of globular clusters.},
+  archiveprefix = {arXiv},
+  eprint        = {1806.07894},
+  groups        = {relaxation},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180607894M},
+}
+
+@Article{Inoue2018,
+  author        = {Inoue, S. and Yoshida, N.},
+  title         = {Spiral-arm instability - II: magnetic destabilisation},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {Fragmentation of spiral arms can drive the formation of giant clumps and induce intense star formation in disc galaxies. Based on the spiral-arm instability analysis of our Paper I, we present linear perturbation theory of dynamical instability of self-gravitating spiral arms of magnetised gas, focusing on the effect of toroidal magnetic fields. Spiral arms can be destabilised by the toroidal fields which cancel Coriolis force. We find that there can be two instability modes: magneto-Jeans instability and oscillating growing mode. The latter is a necessary instability condition. Our analysis can be applied to multi-component systems that consist of gas and stars. To test our analysis, we perform ideal magneto-hydrodynamics simulations of isolated disc galaxies and examine the simulation results. Our analysis can characterise dynamical instability leading arms to fragment and to form clumps in cases of strong and weak magnetic fields. In moderate magnetic fields, however, spiral arms are often stable in non-linear regimes and do not fragment although our linear analysis predicts instability. Using our analytic model, we estimate a typical mass of clumps forming from spiral-arm fragmentation to be consistent with observed giant clumps $\sim10^{7-8}~{\rm M\_\odot}$. Furthermore, we find that, although the magnetic destabilisation can cause low-density spiral arms to fragment, the estimated mass of resultant clumps is almost independent from strength of magnetic fields since marginal instability occurs at long wavelengths which compensate the low densities of magnetically destabilised arms.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.02988},
+  groups        = {instability},
+  keywords      = {Astrophysics - Astrophysics of Galaxies, Astrophysics - Solar and Stellar Astrophysics},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180702988I},
+}
+
+@Article{Saha2018,
+  author        = {Saha, K. and Cortesi, A.},
+  title         = {Forming Lenticular Galaxies via Violent Disk Instability},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {Lenticular galaxies are generally thought to have descended from spirals via morphological transformation, although recent numerical simulations have shown that minor or even major merger can also lead to an S0-like remnant. These mechanisms, however, are active in a dense environment such as a group or a cluster of galaxies - making it harder to explain the remarkable fraction of S0s found in the field. Here, we propose a new mechanism to form such lenticular galaxies. We show that an isolated cold disk settled into rotational equilibrium becomes violently unstable - leading to fragmentation and formation of stellar clumps that, in turn, not only grow the bulge, but also increase the stellar disk velocity dispersion optimally in less than a billion year. Subsequently, the galaxy evolves passively without any conspicuous spiral structure. The final galaxy models resemble remarkably well the morphology and stellar kinematics of the present-day S0s observed by the Planetary Nebulae spectrograph. Our findings suggest a natural link between the high-redshift clumpy progenitors to the present-day S0 galaxies.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.02986},
+  groups        = {instability},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180702986S},
+}
+
+@Article{Yeh2018,
+  author        = {Yeh, L.-C. and Jiang, I.-G.},
+  title         = {Studying Dynamical Models of the Core Galaxy NGC 1399 with Merging Remnants},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {An investigation on the possible dynamical models of the core galaxy NGC 1399 is performed. Because early-type galaxies are likely to be formed through merging events, remnant rings are considered in the modeling process. A numerical survey over three parameters is employed to obtain the best-fit models that are completely consistent with observations. It is found that the inner slope of dark matter profile is a cuspy one for this core galaxy. The existence of remnant rings in best-fit models indicates a merging history. The remnant ring explains the flatten surface brightness, and thus could be the physical counterpart of the core structure of NGC 1399.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.05704},
+  groups        = {merge},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180705704Y},
+}
+
+@Article{Chen2018,
+  author        = {Chen, G. and Wu, X. and Kong, X. and Liu, W.-J. and Zhao, H.},
+  title         = {Ring Galaxies Through Off-Center Minor Collisions by Tuning Bulge-to-Disk Mass Ratio of Progenitors},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {Collisional ring galaxies (CRGs) are formed through off-center collisions between a target galaxy and an intruder dwarf galaxy. We study the mass distribution and kinematics of the CRGs by tuning the bulge-to-disk mass ratio ($B/D$) for the progenitor, i.e., the target galaxy. We find that the lifetime of the ring correlates with the initial impact velocity vertical to the disk plane (i.e., $v\_{\rm z0}$). Three orbits for the collisional galaxy pair, on which clear and asymmetric rings form after collisions, are selected to perform the N-body simulations at different values of $B/D$ for the progenitor. It is found that, the ring structures are the strongest for the CRGs with small values of $B/D$. The S$\backslash$'$\{$e$\}$rsic index, $n$, of the central remnant in the target galaxy becomes larger after collision. Moreover, the S$\backslash$'$\{$e$\}$rsic index of a central remnant strongly correlates with the initial value of $B/D$ for the progenitor. A bulge-less progenitor results in a late-type object in the center of the ring galaxy, whereas a bulge-dominated progenitor leads to an early-type central remnant. Progenitors with $B/D\in [0.1,~0.3]$, i.e., minor bulges, leave central remnants with $n\approx 4$. These results provide a possible explanation for the formation of a recently observed CRG with an early-type central nucleus, SDSS J1634+2049. In addition, we find that the radial and azimuthal velocity profiles for a ring galaxy are more sensitive to the $B/D$ than the initial relative velocity of the progenitor.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.06598},
+  groups        = {simulation},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180706598C},
+}
+
+@Article{Sanchez-Martin2018,
+  author        = {Sanchez-Martin, P. and Masdemont, J. J. and Romero-Gomez, M.},
+  title         = {From Manifolds to Lagrangian Coherent Structures in galactic bar models},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {We study the dynamics near the unstable Lagrangian points in galactic bar models using dynamical system tools in order to determine the global morphology of a barred galaxy. We aim at the case of non-autonomous models, in particular with secular evolution, by allowing the bar pattern speed to decrease with time. We extend the concept of manifolds widely used in the autonomous problem to the Lagrangian Coherent Structures (LCS), widely used in fluid dynamics, which behave similar to the invariant manifolds driving the motion. After adapting the LCS computation code to the galactic dynamics problem, we apply it to both the autonomous and non-autonomous problems, relating the results with the manifolds and identifying the objects that best describe the motion in the non-autonomous case. We see that the strainlines coincide with the first intersection of the stable manifold when applied to the autonomous case, while, when the secular model is used, the strainlines still show the regions of maximal repulsion associated to both the corresponding stable manifolds and regions with a steep change of energy. The global morphology of the galaxy predicted by the autonomous problem remains unchanged.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.06599},
+  groups        = {inner galaxy : structure},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180706599S},
+}
+
+@Article{Lee2018,
+  author        = {Lee, J. and Kim, S. and Jeong, H. and Smith, R. and Choi, H. and Hwang, H. S. and Joo, S.-J. and Kim, H.-S. and Lee, Y. and Yi, S. K.},
+  title         = {Wobbling galaxy spin axes in dense environments},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {The orientation of galaxy spin vectors within the large scale structure has been considered an important test of our understanding of structure formation. We investigate the angular changes of galaxy spin vectors in clusters - denser environments than are normally focused upon, using hydrodynamic zoomed simulations of 17 clusters YZiCS and a set of complementary controlled simulations. The magnitude by which galaxies change their spin vector is found to be a function of their rotational support with larger cumulative angular changes of spin vectors when they have initially lower $V\_{\theta}/\sigma$. We find that both mergers and tidal perturbations can significantly swing spin vectors, with larger changes in spin vector for smaller pericentre distances. Strong tidal perturbations are also correlated with the changes in stellar mass and specific angular momentum of satellite galaxies. However, changes in spin vector can often result in a canceling out of previous changes. As a result, the integrated angular change is always much larger than the angular change measured at any instant. Also, overall the majority of satellite galaxies do not undergo mergers or sufficiently strong tidal perturbation after infall into clusters, and thus they end up suffering little change to their spin vectors. Taken as a whole, these results suggest that any signatures of spin alignment from the large scale structure will be preserved in the cluster environment for many gigayears.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.08867},
+  groups        = {gal/dyn},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180708867L},
+}
+
+@Article{Parashar2018,
+  author      = {Tulasi N. Parashar and William H. Matthaeus and Michael A Shay},
+  title       = {Dependence of Kinetic Plasma Turbulence on Plasma beta},
+  abstract    = {We study the effects of plasma \b{eta} (ratio of plasma pressure to magnetic pressure) on the evolution of kinetic plasma turbulence using fully kinetic particle-in-cell simulations of decaying turbulence. We find that the plasma \b{eta} systematically affects spectra, measures of intermittency, decay rates of turbulence fluctuations, and partitioning over different channels of energy exchange More specifically, an increase in plasma \b{eta} leads to greater total heating, with proton heating preferentially more than electrons. Implications for achieving magnetosheath like temperature ratios are discussed.},
+  date        = {2018-07-30},
+  eprint      = {http://arxiv.org/abs/1807.11371v1},
+  eprintclass = {physics.space-ph},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/1807.11371v1:PDF},
+  groups      = {turbulence},
+  keywords    = {physics.space-ph, astro-ph.GA, physics.plasm-ph},
+}
+
+@Article{Brandenburg2018,
+  author      = {Axel Brandenburg and Andrea Bracco and Tina Kahniashvili and Sayan Mandal and Alberto Roper Pol and Gordon J. D. Petrie and Nishant K. Singh},
+  title       = {E and B polarizations from inhomogeneous and solar surface turbulence},
+  abstract    = {Gradient- and curl-type or E- and B-type polarizations have been routinely analyzed to study the physics contributing to the cosmic microwave background polarization and galactic foregrounds. They characterize the parity-even and parity-odd properties of the underlying physical mechanisms, for example helical hydromagnetic turbulence in the case of dust polarization. Here we study spectral correlation functions characterizing the party-even and parity-odd parts of linear polarization for homogeneous and inhomogeneous helical turbulence to show that only the latter can give rise to a parity-odd polarization signal. We identify a strong negative skewness of the E polarization as the prime cause for producing the observed enhanced EE/BB correlation ratio. We close with a preliminary assessment of using linear polarization of the Sun to characterize its helical turbulence without being subjected to the pi ambiguity that magnetic inversion techniques have to address.},
+  date        = {2018-07-30},
+  eprint      = {http://arxiv.org/abs/1807.11457v1},
+  eprintclass = {astro-ph.SR},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/1807.11457v1:PDF},
+  groups      = {stellar/tur},
+  keywords    = {astro-ph.SR, astro-ph.CO, astro-ph.GA},
+}
+
+@Article{Stark2018,
+  author        = {Stark, D. V. and Bundy, K. A. and Westfall, K. and Bershady, M. and Weijmans, A.-M. and Masters, K. L. and Kruk, S. and Brinchmann, J. and Soler, J. and Abraham, R. and Cheung, E. and Bizyaev, D. and Drory, N. and Lopes, A. R. and Law, D. R.},
+  title         = {SDSS IV MaNGA: Characterizing Non-Axisymmetric Motions in Galaxy Velocity Fields Using the Radon Transform},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {We show how the Radon transform (defined as a series of line integrals through an image at different orientations and offsets from the origin) can be used as a simple, non-parametric tool to characterize galaxy velocity fields, specifically their global kinematic position angles (PA\_k) and any radial variation or asymmetry in PA\_k. This method is fast and easily automated, making it particularly beneficial in an era where IFU and interferometric surveys are yielding samples of thousands of galaxies. We demonstrate the Radon transform by applying it to gas and stellar velocity fields from the first \~{}2800 galaxies of the SDSS-IV MaNGA IFU survey. We separately classify gas and stellar velocity fields into five categories based on the shape of their radial PA\_k profiles. At least half of stellar velocity fields and two-thirds of gas velocity fields are found to show detectable deviations from uniform coplanar circular motion, although most of these variations are symmetric about the center of the galaxy. The behavior of gas and stellar velocity fields is largely independent, even when PA\_k profiles for both components are measured over the same radii. We present evidence that one class of symmetric PA\_k variations is likely associated with bars and/or oval distortions, while another class is more consistent with warped disks. This analysis sets the stage for more in-depth future studies which explore the origin of diverse kinematic behavior in the galaxy population.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.11503},
+  groups        = {inner galaxy : structure},
+  keywords      = {Astrophysics - Astrophysics of Galaxies, Astrophysics - Instrumentation and Methods for Astrophysics},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180711503S},
+}
+
+@Article{Rennehan2018,
+  author        = {Rennehan, D. and Babul, A. and Hopkins, P. F. and Dav{\'e}, R. and Moa, B.},
+  title         = {Dynamic Localised Turbulent Diffusion and its Impact on the Galactic Ecosystem},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {Modelling the turbulent diffusion of thermal energy, momentum, and metals is required in all galaxy evolution simulations due to the ubiquity of turbulence in galactic environments. The most commonly employed diffusion model, the Smagorinsky model, is known to be over-diffusive due to its strong dependence on the fluid velocity shear. We present a method for dynamically calculating a more accurate, locally appropriate, turbulent diffusivity: the dynamic localised Smagorinsky model. We investigate a set of standard astrophysically-relevant hydrodynamical tests, and demonstrate that the dynamic model curbs over-diffusion in non-turbulent shear flows and improves the density contrast in our driven turbulence experiments. In galactic discs, we find that the dynamic model maintains the stability of the disc by preventing excessive angular momentum transport, and increases the metal-mixing timescale in the interstellar medium. In both our isolated Milky Way-like galaxies and cosmological simulations, we find that the interstellar and circumgalactic media are particularly sensitive to the treatment of turbulent diffusion. We also examined the global gas enrichment fractions in our cosmological simulations, to gauge the potential effect on the formation sites and population statistics of Population III stars and supermassive black holes, since they are theorised to be sensitive to the metallicity of the gas out of which they form. The dynamic model is, however, not for galaxy evolution studies only. It can be applied to all astrophysical hydrodynamics simulations, including those modelling stellar interiors, planetary formation, and star formation.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.11509},
+  groups        = {gal/tur},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180711509R},
+}
+
+@Article{Darling2018,
+  author        = {Darling, K. and Widrow, L. M.},
+  title         = {Emergence of the Gaia Phase Space Spirals from Bending Waves},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {We discuss the physical mechanism by which pure vertical bending waves in a stellar disc evolve to form phase space spirals similar to those discovered by Antoja et al. ( arXiv:1804.10196) in Gaia Data Release 2. These spirals were found by projecting Solar Neighbourhood stars onto the $z-v\_z$ plane. Faint spirals appear in the number density of stars projected onto the $z-v\_z$ plane, which can be explained by a simple model for phase wrapping. More prominent spirals are seen when bins across the $z-v\_z$ plane are coloured by median $v\_R$ or $v\_\phi$. We use both toy model and fully self-consistent simulations to show that the spirals develop naturally from vertical bending oscillations of a stellar disc. The underlying physics follows from the observation that the vertical energy of a star (essentially, its ``radius'' in the $z-v\_z$ plane) correlates with its angular momentum or, alternatively, guiding radius. Moreover, at fixed physical radius, the guiding radius determines the azimuthal velocity. Together, these properties imply the link between in-plane and vertical motion that lead directly to the Gaia spirals. We show that the cubic $R-z$ coupling term in the effective potential is crucial for understanding the morphology of the spirals. This suggests that phase space spirals might be a powerful probe of the Galactic potential. In addition, we argue that self-gravity is necessary to properly model the evolution of the bending waves and their attendant phase space spirals.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.11516},
+  groups        = {multi-stellar/dyn},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180711516D},
+}
+
+@Article{Aquino-Ortiz2018,
+  author        = {Aquino-Ort{\'{\i}}z, E. and Valenzuela, O. and S{\'a}nchez, S. F. and Hern{\'a}ndez-Toledo, H. and {\'A}vila-Reese, V. and van de Ven, G. and Rodr{\'{\i}}guez-Puebla, A. and Zhu, L. and Mancillas, B. and Cano-D{\'{\i}}az, M. and Garc{\'{\i}}a-Benito, R.},
+  title         = {Kinematic scaling relations of CALIFA galaxies: A dynamical mass proxy for galaxies across the Hubble sequence},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jun,
+  abstract      = { We used ionized gas and stellar kinematics for 667 spatially resolved galaxies publicly available from the Calar Alto Legacy Integral Field Area survey (CALIFA) third Data Release with the aim of studying kinematic scaling relations as the Tully & Fisher (TF) relation using rotation velocity, Vrot, the Faber & Jackson (FJ) relation using velocity dispersion, σ, and also a combination of Vrot and σ through the SK parameter defined as SK^2 = KV_{rot}^2 + σ ^2 with constant K. Late-type and early-type galaxies reproduce the TF and FJ relations. Some early-type galaxies also follow the TF relation and some late-type galaxies the FJ relation, but always with larger scatter. On the contrary, when we use the SK parameter, all galaxies, regardless of the morphological type, lie on the same scaling relation, showing a tight correlation with the total stellar mass, M⋆. Indeed, we find that the scatter in this relation is smaller or equal to that of the TF and FJ relations. We explore different values of the K parameter without significant differences (slope and scatter) in our final results with respect to the case K= 0.5 besides a small change in the zero-point. We calibrate the kinematic SK^2 dynamical mass proxy in order to make it consistent with sophisticated published dynamical models within 0.15 dex. We show that the SK proxy is able to reproduce the relation between the dynamical mass and the stellar mass in the inner regions of galaxies. Our result may be useful in order to produce fast estimations of the central dynamical mass in galaxies and to study correlations in large galaxy surveys. },
+  archiveprefix = {arXiv},
+  eprint        = {1806.09013},
+  groups        = {kinematical},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180609013A},
+}
+
+@Article{Foster2018,
+  author        = {Foster, C. and van de Sande, J. and Cortese, L. and Croom, S. M. and Bland-Hawthorn, J. and Brough, S. and Bryant, J. J. and Goodwin, M. and Lawrence, J. S. and Lorente, N. and Medling, A. M. and Owers, M. and Richards, S. N. and Scott, N.},
+  title         = {The SAMI Galaxy Survey: embedded discs and radial trends in outer dynamical support across the Hubble sequence},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jul,
+  abstract      = {We study the balance in dynamical support of 384 galaxies with stellar kinematics out to $\gt$1.5R\_e in the Sydney AAO Multi-object Integral Field (SAMI) Galaxy Survey. We present radial dynamical profiles of the local rotation dominance parameter, V/sigma, and local spin, lambda\_loc. Although there is a broad range in amplitude, most kinematic profiles monotonically increase across the probed radial range. We do not find many galaxies with kinematic transitions such as those expected between the inner in-situ and outer accreted stars within the radial range probed. We compare the V/sigma gradient and maximum values to the visual morphologies of the galaxies to better understand the link between visual and kinematic morphologies. We find that the radial distribution of dynamical support in galaxies is linked to their visual morphology. Late-type systems have higher rotational support at all radii and steeper V/sigma gradients compared to early-type galaxies. We perform a search for embedded discs, which are rotationally supported discy structures embedded within large scale slowly or non-rotating structures. Visual inspection of the kinematics reveals at most three galaxies (out of 384) harbouring embedded discs. This is more than an order of magnitude fewer than the observed fraction in some local studies. Our tests suggest that this tension can be attributed to differences in the sample selection, spatial sampling and beam smearing due to seeing.},
+  archiveprefix = {arXiv},
+  eprint        = {1807.11547},
+  groups        = {gal/dyn},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180711547F},
+}
+
+@Article{Desmond2018,
+  author      = {Harry Desmond and Harley Katz and Federico Lelli and Stacy McGaugh},
+  title       = {Uncorrelated velocity and size residuals across galaxy rotation curves},
+  abstract    = {The mass--velocity--size relation of late-type galaxies decouples into independent correlations between mass and velocity (the Tully-Fisher relation), and mass and size. This behaviour is different to early-type galaxies which lie on a Fundamental Plane. In this Letter we study the coupling of the Tully-Fisher and mass-size relations both in observations (the SPARC sample) and in empirical galaxy formation models based on halo abundance matching. We systematically investigate the correlation coefficient between the Tully-Fisher residuals $\Delta V_r$ and mass-size residuals $\Delta R$ as a function of the radius $r$ at which the velocity is measured, and thus present the $\Delta V_r-\Delta R$ relation across rotation curves. We find no significant correlation in either the data or models for any $r$. We do however find evidence for an anticorrelation of galaxy size with halo concentration at fixed baryonic mass, and confirm that setting galaxy and halo specific angular momentum proportional anticorrelates $\Delta V_r$ and $\Delta R$ in significant disagreement with the data. Finally, we study the $\Delta V_r-\Delta R$ relations produced by the baryons and dark matter separately by fitting halo profiles to the rotation curves. This elucidates the "disk-halo conspiracy" required for no overall correlation.},
+  date        = {2018-08-01},
+  eprint      = {http://arxiv.org/abs/1808.00271v1},
+  eprintclass = {astro-ph.GA},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/1808.00271v1:PDF},
+  groups      = {gal/dyn},
+  keywords    = {astro-ph.GA, astro-ph.CO},
+}
+
+@Article{Vallee2018,
+  author        = {Vallee, J. P.},
+  title         = {Offsets of masers with respect to the middle of the Perseus arm, and the co-rotation radius in the Milky Way},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = aug,
+  abstract      = {The radial distance to the co-rotation radius Rcoro (where the angular speed of the gas and stars in orbit around the Galactic Centre is equal to the angular speed of the spiral arm pattern) has often been predicted (at various places), but not measured with a high precision. Here we test the locations of masers with respect to the Perseus arm (Table 1). Our analysis of the masers and HII regions near the Perseus arm (mostly located on the inner arm side, by about 0.4 kpc from the cold CO mid-arm) shows that the co-rotation Rcoro must be $\gt$ 10.8 kpc from the Galactic Center (Figure 1). This implies that the angular rotation speed of the spiral pattern $\lt$ 21.3 km/s/kpc. Another test in galactic quadrant II shows that the radial velocity of the masers are generally more negative than that of the CO mid-arm (Figure 2), indicating a deceleration with respect to the CO mid-arm, by about 9 km/s. This implies that a spiral pattern angular rotation $\lt$ 20.7 km/s/kpc, and thus Rcoro $\gt$ 11.1 kpc. Finally, comparing our results with other published results (Table 2), we find a statistical mean co-rotation radius Rcoro predicted to be near 12 kpc from the Galactic Center (beyond the Perseus arm; before the Cygnus arm), and a mean angular spiral pattern angular rotation predicted to be near 19 km/s/kpc.},
+  archiveprefix = {arXiv},
+  eprint        = {1808.01379},
+  groups        = {multi-stellar/dyn},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180801379V},
+}
+
+@Article{Michtchenko2018,
+  author        = {Michtchenko, T. A. and L{\'e}pine, J. R. D. and P{\'e}rez-Villegas, A. and Vieira, R. S. S. and Barros, D. A.},
+  title         = {On the stellar velocity distribution in the solar neighborhood in the light of Gaia DR2},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = aug,
+  abstract      = {The aim of this work is to contribute to the understanding of the stellar velocity distribution in the solar neighborhood (SN). We propose that the structures on the $U-V$ planes, known as the moving groups, can be mainly explained by the spiral arms perturbations. The applied model of the Galactic disk and spiral arms, with the parameters defined by observational data and with pattern speed $\Omega\_p=$28.0 km s$^{-1}$ kpc$^{-1}$, is the same that allowed us to explain the origin of the Local Arm and the Sun's orbit trapped inside the corotation resonance (CR). We show that the $U-V$ picture of the SN consists of the main component, associated with the CR, and the inner and outer structures, which we could associate with the Hercules and Sirius streams, respectively. The Coma-Berenices and Hyades-Pleiades groups and the Sun itself belong to the main part. The substructures of Hercules are formed mainly by the nearby 8/1, 12/1, and even 6/1 inner Lindblad resonances, while Sirius is shaped by the bulk of overlapping outer Lindblad resonances, -8/1, -12/1, -16/1, which are stuck to the CR. This richness in resonances only exists near corotation, which should be of the spiral arms, not of the Galactic bar, whose stable corotation zone is far away from the Sun. The model's predictions of the velocity distribution match qualitatively and quantitatively the distribution provided by Gaia DR2.},
+  archiveprefix = {arXiv},
+  eprint        = {1808.01501},
+  groups        = {near solar},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180801501M},
+}
+
+@Article{Wurster2018,
+  author        = {Wurster, J. and Bate, M. R. and Price, D. J.},
+  title         = {Hall effect-driven formation of gravitationally unstable discs in magnetized molecular cloud cores},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = aug,
+  abstract      = {We demonstrate the formation of gravitationally unstable discs in magnetized molecular cloud cores with initial mass-to-flux ratios of 5 times the critical value, effectively solving the magnetic braking catastrophe. We model the gravitational collapse through to the formation of the stellar core, using Ohmic resistivity, ambipolar diffusion and the Hall effect and using the canonical cosmic ray ionization rate of $\zeta\_\text{cr} = 10^{-17}$ s$^{-1}$. When the magnetic field and rotation axis are initially aligned, a $\lesssim1$\~{}au disc forms after the first core phase, whereas when they are anti-aligned, a gravitationally-unstable 25\~{}au disc forms during the first core phase. The aligned model launches a 3\~{}km\~{}s$^{-1}$ first core outflow, while the anti-aligned model launches only a weak $\lesssim 0.3$\~{}km\~{}s$^{-1}$ first core outflow. Qualitatively, we find that models with $\zeta\_\text{cr} = 10^{-17}$ s$^{-1}$ are similar to purely hydrodynamical models if the rotation axis and magnetic field are initially anti-aligned, whereas they are qualitatively similar to ideal magnetohydrodynamical models if initially aligned.},
+  archiveprefix = {arXiv},
+  eprint        = {1808.04376},
+  groups        = {instability},
+  keywords      = {Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Astrophysics of Galaxies},
+  primaryclass  = {astro-ph.SR},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180804376W},
+}
+
+@Article{Pavlik2018,
+  author        = {Pavl{\'{\i}}k, V. and {\v S}ubr, L.},
+  title         = {On the hunt for self-similar core collapse},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = aug,
+  abstract      = {Core collapse is a prominent evolutionary stage of self-gravitating systems. In an idealised collisionless approximation, the region around the cluster core evolves in a self-similar way prior to the core collapse. Thus, its radial density profile outside the core can be described by a power-law $\rho \propto r^{-\alpha}$. We aim to find the characteristics of core collapse in $N$-body models. In such systems, a complete collapse is prevented by transferring the binding energy of the cluster to binary stars. The contraction is, therefore, more difficult to identify. We developed a method which identifies the core collapse in $N$-body models of star clusters based on the assumption of their homologous evolution. We analysed different models (equal- and multi-mass), most of which exhibit patterns of homologous evolution, yet with significantly different values of $\alpha$ --- the equal-mass models have $\alpha \approx 2.3$, which agrees with theoretical expectations, the multi-mass models have $\alpha \approx 1.5$ (yet with larger uncertainty). Furthermore, most models usually show sequences of separated homologous collapses with similar properties. Finally, we investigated a correlation between the time of core collapse and the time of formation of the first hard binary star. The binding energy of such a binary usually depends on the depth of the collapse in which it forms, e.g.$\backslash$ from $100\,kT$ to $10^4\,kT$ in the smallest equal- to the largest multi-mass model, respectively. However, not all major hardenings of binaries happened during the core collapse. In the multi-mass models, we see large transfers of binding energy of $\sim 10^4\,kT$ to binaries that occur on the crossing time scale and out of periods of the homologous collapses.},
+  archiveprefix = {arXiv},
+  eprint        = {1808.05230},
+  groups        = {collapse},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180805230P},
+}
+
+@Article{Yao2018,
+  author        = {Yao, J. and Ishak, M. and Troxel, M. A.},
+  title         = {Self-calibration method for II and GI types of intrinsic alignments of galaxies},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = sep,
+  __markedentry = {[ling:]},
+  abstract      = {We introduce a self-calibration method that can be applied to the intrinsic ellipticity--intrinsic ellipticity (II) and gravitational shear -- intrinsic ellipticity (GI) types of intrinsic alignment of galaxies. The method combines previous self-calibration techniques with modifications to one of them in order to use auto-spectra in addition to cross-spectra between redshift bins. This allows one to use the self-calibration while preserving all the constraining power of cosmic shear from surveys. We show that the new method provides more flexibility in using various redshift bin widths. We perform cosmological parameter constraint forecast when this method is applied to the Large Synoptic Survey Telescope (LSST). Compared to the original self-calibration, we find that the new method provides further significant reduction in any residual shift in the cosmological parameters (e.g. factors of $2-4$ for the dark energy equation of state) which is promising for accurate cosmology.},
+  archiveprefix = {arXiv},
+  eprint        = {1809.07273},
+  groups        = {alignment},
+  keywords      = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180907273Y},
+}
+
+@Article{Peterken2018,
+  author        = {Peterken, T. and Merrifield, M. and Arag{\'o}n-Salamanca, A. and Drory, N. and Krawczyk, C. and Masters, K. and Weijmans, A.-M. and Westfall, K.},
+  title         = {A direct test of density wave theory in grand-design spiral galaxies},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = sep,
+  __markedentry = {[ling:6]},
+  abstract      = {While the defining features of spiral galaxies are the beautiful arms that they display, the exact nature of such spiral structures is still an open question. Since the 1960s, it has been widely assumed that spiral arms in galaxies with two distinct symmetrical arms (known as ``grand design'' systems) are the products of density waves that propagate around the disk as a persistent pattern, with the spiral arms being visibly enhanced by the star formation that is triggered as the passing wave compresses gas in the galaxy disk. Such a persistent wave would propagate with an approximately constant angular speed called its pattern speed, $\Omega\_{\text{P}}$, and so a simple test of the density-wave theory is to measure this quantity and show that it does not vary with radius in the galaxy. Unfortunately, this measurement is difficult because $\Omega\_{\text{P}}$ only has an indirect connection to readily-measurable quantities such as the stellar rotation speed. Here, we make use of the detailed information on stellar populations that can now be extracted from spectral mapping of a grand-design spiral galaxy (UGC 3825) to measure the offset between young stars of a known age and the spiral arm in which they formed, allowing the first direct measure of $\Omega\_{\text{P}}$ at a range of radii. The offset in this galaxy is found to be as expected for a pattern speed that varies little with radius, vindicating the global spiral density wave theory and establishing the reliability of this new method.},
+  archiveprefix = {arXiv},
+  eprint        = {1809.08048},
+  groups        = {inner galaxy : structure},
+  keywords      = {Astrophysics - Astrophysics of Galaxies},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180908048P},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:merge\;0\;1\;\;\;\;;
+1 StaticGroup:disk\;0\;1\;\;\;\;;
+1 StaticGroup:kinematical\;0\;1\;\;\;\;;
+1 StaticGroup:accreation\;0\;1\;\;\;\;;
+1 StaticGroup:MOND\;0\;1\;\;\;\;;
+1 StaticGroup:DM\;0\;1\;\;\;\;;
+1 StaticGroup:simulation\;0\;1\;\;\;\;;
+1 StaticGroup:dynamic\;0\;1\;\;\;\;;
+2 StaticGroup:gal/dyn\;0\;1\;\;\;\;;
+2 StaticGroup:inner galaxy : structure\;0\;1\;\;\;\;;
+2 StaticGroup:multi-stellar/dyn\;0\;1\;\;\;\;;
+2 StaticGroup:inner galaxy : stars\;0\;1\;\;\;\;;
+2 StaticGroup:near solar\;0\;1\;\;\;\;;
+1 StaticGroup:collapse\;0\;1\;\;\;\;;
+1 StaticGroup:relaxation\;0\;1\;\;\;\;;
+1 StaticGroup:instability\;0\;1\;\;\;\;;
+1 StaticGroup:turbulence\;0\;1\;\;\;\;;
+2 StaticGroup:stellar/tur\;0\;1\;\;\;\;;
+2 StaticGroup:gal/tur\;0\;1\;\;\;\;;
+2 StaticGroup:multi-stellar/tur\;0\;1\;\;\;\;;
+1 StaticGroup:N-body\;0\;1\;\;\;\;;
+1 StaticGroup:distri\;0\;1\;\;\;\;;
+2 StaticGroup:alignment\;0\;1\;\;\;\;;
+}

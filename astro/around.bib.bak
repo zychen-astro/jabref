@@ -1,0 +1,60 @@
+% Encoding: UTF-8
+
+@Article{Walkowicz2018,
+  author        = {Walkowicz, L. M.},
+  title         = {Choose Your Own Adventure: Developing A Values-Oriented Framework for Your Career},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = may,
+  abstract      = {We've all heard how academia evaluates our work: papers, papers, and... more papers. While academic publishing is an essential part of disseminating research results, it is only one activity amongst many that make up a career (or for that matter, a life). The following essay is based on an invited talk for the NSF AAPF Symposium, given at the 2018 Winter AAS Meeting. Here, as in the original talk, I offer some practical advice for thinking about one's work within the larger frame of your personal values and goals. While I will draw examples from my own career, I hope to offer readers guidance in articulating what is important to them, aligning their career choices with those values, and establishing metrics that go beyond the h-index.},
+  archiveprefix = {arXiv},
+  eprint        = {1805.09963},
+  groups        = {around},
+  keywords      = {Physics - Physics Education, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Astrophysics of Galaxies, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar and Stellar Astrophysics},
+  primaryclass  = {physics.ed-ph},
+  url           = {http://adsabs.harvard.edu/abs/2018arXiv180509963W},
+}
+
+@Article{Stasinska2018,
+  author      = {Grazyna Stasinska},
+  title       = {TUIMP: The Universe In My Pocket. Free astronomy booklets in all languages},
+  abstract    = {TUIMP (www.tuimp.org) is an international project to produce little astronomy booklets. These booklets, folded from just one sheet of paper, can be used in classrooms, at open public conferences, or during visits of observatories and planetariums. They are free to download from the internet, the only thing which is needed is a color printer (in absence of a printer, the booklets can also be directly consulted on line, even with just a mobile phone). The booklets are intended for children from nine years old and for anyone curious of astronomy. They are written in a simple language, amply illustrated, revised and translated by professional astronomers. So far, they are being published in six languages, others languages are to come. Everyone is invited to download the booklets and use them in their outreach activities.},
+  date        = {2018-06-06},
+  eprint      = {http://arxiv.org/abs/1806.02671v1},
+  eprintclass = {physics.ed-ph},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/1806.02671v1:PDF},
+  keywords    = {physics.ed-ph, astro-ph.GA},
+}
+
+@Article{Hull2017,
+  author        = {Hull, C. L. H.},
+  title         = {How to Give a Great Talk},
+  journal       = {ArXiv e-prints},
+  year          = {2017},
+  month         = dec,
+  __markedentry = {[ling:]},
+  abstract      = {The art of the scientific presentation -- much like the art of the perfect plot, the art of the compelling proposal, and the art of the killer job application -- is generally not something we're taught in school. Therefore, in classic Millennial style, one of the first things I did when I was asked to write this piece was to ask Google, ``how to give a scientific presentation,'' to see what the Internet had to say. I've attempted to avoid boring you with laundry lists of ``do's'' and ``don'ts,'' as many of the top Google hits did. However, I have incorporated a wide range of tips -- and some interesting vignettes -- both from the online hive mind and from my approximately eight years of regularly giving astronomy and radio-science presentations.},
+  archiveprefix = {arXiv},
+  eprint        = {1712.08088},
+  keywords      = {Astrophysics - Instrumentation and Methods for Astrophysics},
+  primaryclass  = {astro-ph.IM},
+  url           = {http://adsabs.harvard.edu/abs/2017arXiv171208088H},
+}
+
+@Article{Rector2017,
+  author        = {Rector, T. A. and Levay, Z. G. and Frattare, L. M. and Arcand, K. K. and Watzke, M.},
+  title         = {The Aesthetics of Astrophysics: How to Make Appealing Color-Composite Images that Convey the Science},
+  journal       = {ArXiv e-prints},
+  year          = {2017},
+  month         = mar,
+  __markedentry = {[ling:6]},
+  abstract      = {Astronomy has a rich tradition of using color photography and imaging, for visualization in research as well as for sharing scientific discoveries in formal and informal education settings (i.e., for ``public outreach.'') In the modern era, astronomical research has benefitted tremendously from electronic cameras that allow data and images to be generated and analyzed in a purely digital form with a level of precision not previously possible. Advances in image-processing software have also enabled color-composite images to be made in ways much more complex than with darkroom techniques, not only at optical wavelengths but across the electromagnetic spectrum. And the internet has made it possible to rapidly disseminate these images to eager audiences. Alongside these technological advances, there have been gains in understanding how to make images that are scientifically illustrative as well as aesthetically pleasing. Studies have also given insights on how the public interprets astronomical images, and how that can be different than professional astronomers. An understanding of these differences will help in the creation of images that are meaningful to both groups. In this invited review we discuss the techniques behind making color-composite images as well as examine the factors one should consider when doing so, whether for data visualization or public consumption. We also provide a brief history of astronomical imaging with a focus on the origins of the ``modern era'' during which distribution of high-quality astronomical images to the public is a part of nearly every professional observatory's public outreach. We review relevant research into the expectations and misconceptions that often affect the public's interpretation of these images.},
+  archiveprefix = {arXiv},
+  eprint        = {1703.00490},
+  keywords      = {Astrophysics - Instrumentation and Methods for Astrophysics},
+  primaryclass  = {astro-ph.IM},
+  url           = {http://adsabs.harvard.edu/abs/2017arXiv170300490R},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
